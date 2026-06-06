@@ -1,0 +1,10 @@
+# Local Environment Secrets
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# IDE Folders
+.vscode/
+.idea/

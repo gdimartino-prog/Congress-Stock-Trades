@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Congress Trade Radar - US Congressional Stock Trade Tracker</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <!-- Lucide Icons -->
+    <script src="https://cdn.jsdelivr.net/npm/lucide/dist/umd/lucide.min.js"></script>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Header -->
+        <header class="app-header">
+            <div class="header-logo">
+                <i data-lucide="trending-up" class="logo-icon"></i>
+                <div class="logo-text">
+                    <h1>Congress Trade Radar</h1>
+                    <p class="subtitle">Real-time tracking of congressional stock transactions</p>
+                </div>
+            </div>
+            <div class="header-stats">
+                <div id="cache-indicator" class="cache-badge">
+                    <span class="pulse-indicator"></span>
+                    <span id="cache-status">Loading data...</span>
+                </div>
+                <button id="clear-cache-btn" class="btn btn-secondary btn-icon-only" title="Refresh Data & Clear Cache">
+                    <i data-lucide="rotate-cw"></i>
+                </button>
+            </div>
+        </header>
+
+        <!-- KPI Grid -->
+        <section class="kpi-grid">
+            <div class="kpi-card glass">
+                <div class="kpi-info">
+                    <span class="kpi-label">Total Trades</span>
+                    <h3 id="kpi-total-trades" class="kpi-value">-</h3>
+                    <span class="kpi-subtext" id="kpi-trades-sub">-</span>
+                </div>
+                <div class="kpi-icon-wrapper blue">
+                    <i data-lucide="activity"></i>
+                </div>
+            </div>
+            <div class="kpi-card glass">
+                <div class="kpi-info">
+                    <span class="kpi-label">Est. Total Volume</span>
+                    <h3 id="kpi-volume" class="kpi-value">-</h3>
+                    <span class="kpi-subtext" id="kpi-volume-sub">Based on mid-range disclosures</span>
+                </div>
+                <div class="kpi-icon-wrapper green">
+                    <i data-lucide="dollar-sign"></i>
+                </div>
+            </div>
+            <div class="kpi-card glass">
+                <div class="kpi-info">
+                    <span class="kpi-label">Buys vs Sells</span>
+                    <h3 id="kpi-buy-sell" class="kpi-value">-</h3>
+                    <span class="kpi-subtext" id="kpi-ratio-sub">Transactions ratio</span>
+                </div>
+                <div class="kpi-icon-wrapper purple">
+                    <i data-lucide="scale"></i>
+                </div>
+            </div>
+            <div class="kpi-card glass">
+                <div class="kpi-info">
+                    <span class="kpi-label">Most Active Ticker</span>
+                    <h3 id="kpi-top-ticker" class="kpi-value">-</h3>
+                    <span class="kpi-subtext" id="kpi-ticker-sub">Most traded security</span>
+                </div>
+                <div class="kpi-icon-wrapper orange">
+                    <i data-lucide="award"></i>
+                </div>
+            </div>
+        </section>
+
+        <!-- Dashboard Tabs -->
+        <nav class="dashboard-tabs">
+            <button id="tab-ledger" class="tab-btn active"><i data-lucide="list"></i> Trade Registry</button>
+            <button id="tab-alerts" class="tab-btn"><i data-lucide="bell"></i> Price Alerts <span id="alerts-count-badge" class="alert-count-badge" style="display: none;">0</span></button>
+        </nav>
+
+        <!-- Main Workspace -->
+        <main class="main-content">
+            <!-- Sidebar Filters -->
+            <aside class="filters-sidebar glass" id="sidebar-filters-container">
+                <div class="sidebar-header">
+                    <h2>Filters & Search</h2>
+                    <button id="reset-filters-btn" class="btn-text">Reset All</button>
+                </div>
+                
+                <div class="filter-group">
+                    <label for="search-input">Search Politician or Ticker</label>
+                    <div class="search-wrapper">
+                        <i data-lucide="search" class="search-icon"></i>
+                        <input type="text" id="search-input" placeholder="e.g. Pelosi, AAPL..." autocomplete="off">
+                    </div>
+                </div>
+
+                <div class="filter-group">
+                    <label>Chamber</label>
+                    <div class="radio-group">
+                        <input type="radio" id="chamber-all" name="chamber" value="all" checked>
+                        <label for="chamber-all">All</label>
+                        
+                        <input type="radio" id="chamber-senate" name="chamber" value="senate">
+                        <label for="chamber-senate">Senate</label>
+                        
+                        <input type="radio" id="chamber-house" name="chamber" value="house">
+                        <label for="chamber-house">House</label>
+                    </div>
+                </div>
+
+                <div class="filter-group">
+                    <label for="transaction-select">Transaction Type</label>
+                    <select id="transaction-select">
+                        <option value="all">All Types</option>
+                        <option value="buy">Purchase (Buy)</option>
+                        <option value="sell">Sale (Full/Partial)</option>
+                        <option value="exchange">Exchange</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label>Transaction Size Range</label>
+                    <div class="range-presets">
+                        <button class="btn-preset active" data-min="0" data-max="999999999">Any Amount</button>
+                        <button class="btn-preset" data-min="100000" data-max="999999999">$100k+</button>
+                        <button class="btn-preset" data-min="1000000" data-max="999999999">$1M+</button>
+                    </div>
+                </div>
+
+                <div class="filter-group">
+                    <label>Quick Presets</label>
+                    <div class="preset-links">
+                        <button id="preset-past-30" class="btn-preset-link">Past 30 Days</button>
+                        <button id="preset-past-year" class="btn-preset-link">Past 12 Months</button>
+                        <button id="preset-house-dem" class="btn-preset-link">House Purchases</button>
+                        <button id="preset-senate-rep" class="btn-preset-link">Senate Sales</button>
+                    </div>
+                </div>
+
+                <div class="filter-info-box">
+                    <i data-lucide="info" class="info-box-icon"></i>
+                    <p>STOCK Act disclosures are required within 45 days of transaction date. Data may exhibit reporting latency.</p>
+                </div>
+            </aside>
+
+            <!-- Dashboard Center (Charts + Table) -->
+            <div class="dashboard-center">
+                <!-- Ledger Panel (Default) -->
+                <div id="ledger-panel" class="panel-content active">
+                    <!-- Visualizations Grid -->
+                    <section class="visualizations-grid">
+                        <div class="chart-card glass">
+                            <div class="chart-header">
+                                <h3>Volume Trend Over Time</h3>
+                            </div>
+                            <div class="chart-container">
+                                <canvas id="volume-trend-chart"></canvas>
+                            </div>
+                        </div>
+                        <div class="chart-card glass">
+                            <div class="chart-header">
+                                <h3>Top Traded Stocks</h3>
+                            </div>
+                            <div class="chart-container">
+                                <canvas id="top-stocks-chart"></canvas>
+                            </div>
+                        </div>
+                        <div class="chart-card glass">
+                            <div class="chart-header">
+                                <h3>Most Active Politicians</h3>
+                            </div>
+                            <div class="chart-container">
+                                <canvas id="top-politicians-chart"></canvas>
+                            </div>
+                        </div>
+                    </section>
+
+                    <!-- Transactions Table Container -->
+                    <section class="table-section glass">
+                        <div class="table-header-row">
+                            <div class="table-title-group">
+                                <h2>Transaction Registry</h2>
+                                <span id="filtered-count-badge" class="badge">0 matching trades</span>
+                            </div>
+                            <div class="table-actions">
+                                <button id="export-csv-btn" class="btn btn-secondary btn-small">
+                                    <i data-lucide="download"></i> Export CSV
+                                </button>
+                            </div>
+                        </div>
+
+                        <div class="table-responsive">
+                            <table id="transactions-table">
+                                <thead>
+                                    <tr>
+                                        <th class="sortable" data-sort="transaction_date">Date <i data-lucide="chevron-down" class="sort-icon"></i></th>
+                                        <th class="sortable" data-sort="representative">Filer <i data-lucide="chevrons-up-down" class="sort-icon"></i></th>
+                                        <th>Chamber</th>
+                                        <th>Ticker</th>
+                                        <th>Asset Details</th>
+                                        <th>Type</th>
+                                        <th class="sortable text-right" data-sort="amount_value">Estimated Size <i data-lucide="chevrons-up-down" class="sort-icon"></i></th>
+                                        <th class="text-center">PDF</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="table-body">
+                                    <tr>
+                                        <td colspan="8" class="loading-state">
+                                            <div class="spinner"></div>
+                                            <p>Ingesting congressional transaction ledger...</p>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+
+                        <!-- Pagination Controls -->
+                        <div class="pagination-container">
+                            <div class="pagination-info">
+                                Showing <span id="page-start">0</span> to <span id="page-end">0</span> of <span id="total-filtered">0</span> entries
+                            </div>
+                            <div class="pagination-controls-buttons">
+                                <button id="prev-page-btn" class="btn btn-secondary btn-small" disabled>
+                                    <i data-lucide="chevron-left"></i> Previous
+                                </button>
+                                <span id="current-page-num" class="page-indicator">Page 1 of 1</span>
+                                <button id="next-page-btn" class="btn btn-secondary btn-small" disabled>
+                                    Next <i data-lucide="chevron-right"></i>
+                                </button>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+
+                <!-- Price Alerts Panel (Hidden by Default) -->
+                <div id="alerts-panel" class="panel-content" style="display: none;">
+                    <section class="table-section glass">
+                        <div class="table-header-row">
+                            <div class="table-title-group">
+                                <h2>Active Price Alerts</h2>
+                                <span id="alerts-count-badge-main" class="badge">0 active alerts</span>
+                            </div>
+                        </div>
+
+                        <div class="alerts-grid" id="alerts-container">
+                            <div class="loading-state">
+                                <i data-lucide="bell" style="width: 40px; height: 40px; color: var(--text-muted); margin-bottom: 12px; display: inline-block;"></i>
+                                <p>No active alerts. Run the background price monitor to check for stock entry/exit alerts.</p>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- App Logic -->
+    <script src="app.js"></script>
+</body>
+</html>
