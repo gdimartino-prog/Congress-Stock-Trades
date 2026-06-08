@@ -723,7 +723,7 @@ function updateCharts() {
             ...chartDefaults,
             indexAxis: 'y',
             onClick: (event) => {
-                const activePoints = stocksChart.getElementsAtEventForMode(event, 'nearest', { intersect: false }, true);
+                const activePoints = stocksChart.getElementsAtEventForMode(event, 'nearest', { intersect: false, axis: 'y' }, true);
                 if (activePoints.length > 0) {
                     const index = activePoints[0].index;
                     const label = stockLabels[index];
@@ -767,7 +767,7 @@ function updateCharts() {
             ...chartDefaults,
             indexAxis: 'y',
             onClick: (event) => {
-                const activePoints = politiciansChart.getElementsAtEventForMode(event, 'nearest', { intersect: false }, true);
+                const activePoints = politiciansChart.getElementsAtEventForMode(event, 'nearest', { intersect: false, axis: 'y' }, true);
                 if (activePoints.length > 0) {
                     const index = activePoints[0].index;
                     const label = politicianLabels[index];
