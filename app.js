@@ -722,9 +722,10 @@ function updateCharts() {
         options: {
             ...chartDefaults,
             indexAxis: 'y',
-            onClick: (event, elements) => {
-                if (elements.length > 0) {
-                    const index = elements[0].index;
+            onClick: (event) => {
+                const activePoints = stocksChart.getElementsAtEventForMode(event, 'nearest', { intersect: false }, true);
+                if (activePoints.length > 0) {
+                    const index = activePoints[0].index;
                     const label = stockLabels[index];
                     document.getElementById("search-input").value = label;
                     filterSearch = label;
@@ -765,9 +766,10 @@ function updateCharts() {
         options: {
             ...chartDefaults,
             indexAxis: 'y',
-            onClick: (event, elements) => {
-                if (elements.length > 0) {
-                    const index = elements[0].index;
+            onClick: (event) => {
+                const activePoints = politiciansChart.getElementsAtEventForMode(event, 'nearest', { intersect: false }, true);
+                if (activePoints.length > 0) {
+                    const index = activePoints[0].index;
                     const label = politicianLabels[index];
                     document.getElementById("search-input").value = label;
                     filterSearch = label;
