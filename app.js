@@ -722,6 +722,18 @@ function updateCharts() {
         options: {
             ...chartDefaults,
             indexAxis: 'y',
+            onClick: (event, elements) => {
+                if (elements.length > 0) {
+                    const index = elements[0].index;
+                    const label = stockLabels[index];
+                    document.getElementById("search-input").value = label;
+                    filterSearch = label;
+                    applyFilters();
+                }
+            },
+            onHover: (event, chartElement) => {
+                event.native.target.style.cursor = chartElement[0] ? 'pointer' : 'default';
+            },
             scales: {
                 x: {
                     grid: { color: "rgba(255, 255, 255, 0.03)" },
@@ -753,6 +765,18 @@ function updateCharts() {
         options: {
             ...chartDefaults,
             indexAxis: 'y',
+            onClick: (event, elements) => {
+                if (elements.length > 0) {
+                    const index = elements[0].index;
+                    const label = politicianLabels[index];
+                    document.getElementById("search-input").value = label;
+                    filterSearch = label;
+                    applyFilters();
+                }
+            },
+            onHover: (event, chartElement) => {
+                event.native.target.style.cursor = chartElement[0] ? 'pointer' : 'default';
+            },
             scales: {
                 x: {
                     grid: { color: "rgba(255, 255, 255, 0.03)" },
