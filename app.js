@@ -722,10 +722,14 @@ function updateCharts() {
         options: {
             ...chartDefaults,
             indexAxis: 'y',
-            onClick: (event) => {
-                const activePoints = stocksChart.getElementsAtEventForMode(event, 'nearest', { intersect: false, axis: 'y' }, true);
-                if (activePoints.length > 0) {
-                    const index = activePoints[0].index;
+            interaction: {
+                mode: 'index',
+                intersect: false,
+                axis: 'y'
+            },
+            onClick: (event, elements) => {
+                if (elements && elements.length > 0) {
+                    const index = elements[0].index;
                     const label = stockLabels[index];
                     document.getElementById("search-input").value = label;
                     filterSearch = label;
@@ -733,7 +737,7 @@ function updateCharts() {
                 }
             },
             onHover: (event, chartElement) => {
-                event.native.target.style.cursor = chartElement[0] ? 'pointer' : 'default';
+                event.native.target.style.cursor = (chartElement && chartElement.length > 0) ? 'pointer' : 'default';
             },
             scales: {
                 x: {
@@ -766,10 +770,14 @@ function updateCharts() {
         options: {
             ...chartDefaults,
             indexAxis: 'y',
-            onClick: (event) => {
-                const activePoints = politiciansChart.getElementsAtEventForMode(event, 'nearest', { intersect: false, axis: 'y' }, true);
-                if (activePoints.length > 0) {
-                    const index = activePoints[0].index;
+            interaction: {
+                mode: 'index',
+                intersect: false,
+                axis: 'y'
+            },
+            onClick: (event, elements) => {
+                if (elements && elements.length > 0) {
+                    const index = elements[0].index;
                     const label = politicianLabels[index];
                     document.getElementById("search-input").value = label;
                     filterSearch = label;
@@ -777,7 +785,7 @@ function updateCharts() {
                 }
             },
             onHover: (event, chartElement) => {
-                event.native.target.style.cursor = chartElement[0] ? 'pointer' : 'default';
+                event.native.target.style.cursor = (chartElement && chartElement.length > 0) ? 'pointer' : 'default';
             },
             scales: {
                 x: {
