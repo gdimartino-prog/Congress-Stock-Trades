@@ -1648,5 +1648,30 @@
         "status": "failed",
         "processed_at": "2026-06-25T15:38:45.607460",
         "reason": "price_fetch_failed"
+    },
+    "senate_7caf1b69-3678-4420-8812-a1476a1a6158_t2": {
+        "status": "processed",
+        "processed_at": "2026-06-26T15:22:25.659638",
+        "alert_triggered": false
+    },
+    "senate_7caf1b69-3678-4420-8812-a1476a1a6158_t1": {
+        "status": "failed",
+        "processed_at": "2026-06-26T15:22:25.933397",
+        "reason": "price_fetch_failed"
+    },
+    "senate_7caf1b69-3678-4420-8812-a1476a1a6158_t0": {
+        "status": "failed",
+        "processed_at": "2026-06-26T15:22:25.944608",
+        "reason": "price_fetch_failed"
+    },
+    "house_20034851_g1": {
+        "status": "processed",
+        "processed_at": "2026-06-26T15:22:26.214515",
+        "alert_triggered": true
+    },
+    "house_20034851_g0": {
+        "status": "processed",
+        "processed_at": "2026-06-26T15:22:26.627791",
+        "alert_triggered": true
     }
 }
