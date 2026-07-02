@@ -1703,5 +1703,20 @@
         "status": "failed",
         "processed_at": "2026-07-01T15:39:25.268568",
         "reason": "price_fetch_failed"
+    },
+    "house_9116197_g4": {
+        "status": "processed",
+        "processed_at": "2026-07-02T15:13:27.985602",
+        "alert_triggered": false
+    },
+    "house_9116197_g3": {
+        "status": "processed",
+        "processed_at": "2026-07-02T15:13:28.175658",
+        "alert_triggered": false
+    },
+    "house_9116197_g0": {
+        "status": "processed",
+        "processed_at": "2026-07-02T15:13:28.487690",
+        "alert_triggered": false
     }
 }
