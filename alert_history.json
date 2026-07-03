@@ -1718,5 +1718,95 @@
         "status": "processed",
         "processed_at": "2026-07-02T15:13:28.487690",
         "alert_triggered": false
+    },
+    "senate_40fbe259-f282-4982-a53f-1c7278d041cd_t0": {
+        "status": "processed",
+        "processed_at": "2026-07-03T15:08:47.743476",
+        "alert_triggered": true
+    },
+    "house_20034897_g1": {
+        "status": "processed",
+        "processed_at": "2026-07-03T15:08:47.978621",
+        "alert_triggered": false
+    },
+    "house_20034897_g0": {
+        "status": "processed",
+        "processed_at": "2026-07-03T15:08:48.547056",
+        "alert_triggered": true
+    },
+    "oge_Donald-J-Trump-06_25_2026-278T_20_2__pdf_g1146": {
+        "status": "processed",
+        "processed_at": "2026-07-03T15:08:48.945138",
+        "alert_triggered": false
+    },
+    "oge_Donald-J-Trump-06_25_2026-278T_20_2__pdf_g1145": {
+        "status": "processed",
+        "processed_at": "2026-07-03T15:08:48.959981",
+        "alert_triggered": false
+    },
+    "house_20034869_g0": {
+        "status": "processed",
+        "processed_at": "2026-07-03T15:08:49.302304",
+        "alert_triggered": false
+    },
+    "oge_Donald-J-Trump-06_25_2026-278T_20_2__pdf_g1135": {
+        "status": "processed",
+        "processed_at": "2026-07-03T15:08:49.718376",
+        "alert_triggered": true
+    },
+    "oge_Donald-J-Trump-06_25_2026-278T_20_2__pdf_g1132": {
+        "status": "processed",
+        "processed_at": "2026-07-03T15:08:50.047536",
+        "alert_triggered": true
+    },
+    "oge_Donald-J-Trump-06_25_2026-278T_20_2__pdf_g1120": {
+        "status": "processed",
+        "processed_at": "2026-07-03T15:08:50.327321",
+        "alert_triggered": false
+    },
+    "oge_Donald-J-Trump-06_25_2026-278T_20_2__pdf_g1116": {
+        "status": "processed",
+        "processed_at": "2026-07-03T15:08:50.470811",
+        "alert_triggered": false
+    },
+    "oge_Donald-J-Trump-06_25_2026-278T_20_2__pdf_g1112": {
+        "status": "processed",
+        "processed_at": "2026-07-03T15:08:50.843755",
+        "alert_triggered": false
+    },
+    "oge_Donald-J-Trump-06_25_2026-278T_20_2__pdf_g1103": {
+        "status": "processed",
+        "processed_at": "2026-07-03T15:08:51.307489",
+        "alert_triggered": true
+    },
+    "oge_Donald-J-Trump-06_25_2026-278T_20_2__pdf_g1099": {
+        "status": "processed",
+        "processed_at": "2026-07-03T15:08:51.489010",
+        "alert_triggered": false
+    },
+    "oge_Donald-J-Trump-06_25_2026-278T_20_2__pdf_g1096": {
+        "status": "processed",
+        "processed_at": "2026-07-03T15:08:51.739962",
+        "alert_triggered": false
+    },
+    "oge_Donald-J-Trump-06_25_2026-278T_20_2__pdf_g1095": {
+        "status": "processed",
+        "processed_at": "2026-07-03T15:08:52.054113",
+        "alert_triggered": false
+    },
+    "oge_Donald-J-Trump-06_25_2026-278T_20_2__pdf_g1094": {
+        "status": "processed",
+        "processed_at": "2026-07-03T15:08:52.467823",
+        "alert_triggered": true
+    },
+    "oge_Donald-J-Trump-06_25_2026-278T_20_2__pdf_g1093": {
+        "status": "processed",
+        "processed_at": "2026-07-03T15:08:52.801187",
+        "alert_triggered": true
+    },
+    "oge_Donald-J-Trump-06_25_2026-278T_20_2__pdf_g1082": {
+        "status": "processed",
+        "processed_at": "2026-07-03T15:08:53.256936",
+        "alert_triggered": true
     }
 }
