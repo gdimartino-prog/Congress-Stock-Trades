@@ -1,5 +1,23 @@
 [
     {
+        "id": "house_20034923_g3",
+        "ticker": "PPG",
+        "filer_name": "Lloyd Doggett",
+        "party": "D",
+        "state": "TX",
+        "chamber": "house",
+        "transaction_type": "Purchase",
+        "transaction_date": "2026-06-12",
+        "amount_range_label": "$1,001 - $15,000",
+        "hist_price": 119.33999633789062,
+        "current_price": 114.01499938964844,
+        "diff_pct": -4.462038806474719,
+        "alert_type": "BUY_OPPORTUNITY",
+        "doc_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034923.pdf",
+        "timestamp": "2026-07-08T15:18:53.293374",
+        "email_sent": false
+    },
+    {
         "id": "house_20034906_g11",
         "ticker": "BSX",
         "filer_name": "Gilbert Cisneros",
@@ -1779,24 +1797,6 @@
         "alert_type": "SELL_HIT",
         "doc_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034713.pdf",
         "timestamp": "2026-06-11T16:53:43.856491",
-        "email_sent": false
-    },
-    {
-        "id": "house_20034713_g19",
-        "ticker": "CLX",
-        "filer_name": "Gilbert Cisneros",
-        "party": "D",
-        "state": "CA",
-        "chamber": "house",
-        "transaction_type": "Sale (Full)",
-        "transaction_date": "2026-05-15",
-        "amount_range_label": "$1,001 - $15,000",
-        "hist_price": 90.44999694824219,
-        "current_price": 97.44999694824219,
-        "diff_pct": 7.739082627062531,
-        "alert_type": "SELL_HIT",
-        "doc_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034713.pdf",
-        "timestamp": "2026-06-11T16:53:43.324770",
         "email_sent": false
     }
 ]

@@ -2138,5 +2138,25 @@
         "status": "processed",
         "processed_at": "2026-07-04T14:27:44.300498",
         "alert_triggered": false
+    },
+    "house_20034923_g0": {
+        "status": "failed",
+        "processed_at": "2026-07-08T15:18:52.889144",
+        "reason": "price_fetch_failed"
+    },
+    "house_20034923_g3": {
+        "status": "processed",
+        "processed_at": "2026-07-08T15:18:53.293399",
+        "alert_triggered": true
+    },
+    "house_20034923_g1": {
+        "status": "processed",
+        "processed_at": "2026-07-08T15:18:53.662985",
+        "alert_triggered": false
+    },
+    "house_20034923_g2": {
+        "status": "processed",
+        "processed_at": "2026-07-08T15:18:54.039893",
+        "alert_triggered": false
     }
 }
