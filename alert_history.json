@@ -2528,5 +2528,10 @@
         "status": "processed",
         "processed_at": "2026-07-11T14:21:04.759093",
         "alert_triggered": false
+    },
+    "oge_Michael-Kratsios-06_10_2026-278T_pdf_g0": {
+        "status": "processed",
+        "processed_at": "2026-07-13T15:40:35.747772",
+        "alert_triggered": true
     }
 }

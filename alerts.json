@@ -1,5 +1,23 @@
 [
     {
+        "id": "oge_Michael-Kratsios-06_10_2026-278T_pdf_g0",
+        "ticker": "LQD",
+        "filer_name": "Michael J Kratsios",
+        "party": null,
+        "state": null,
+        "chamber": null,
+        "transaction_type": "Purchase",
+        "transaction_date": "2026-05-14",
+        "amount_range_label": "$1,001 - $15,000",
+        "hist_price": 107.7613296508789,
+        "current_price": 107.23999786376953,
+        "diff_pct": -0.48378373652066664,
+        "alert_type": "BUY_OPPORTUNITY",
+        "doc_url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/F4060C7CB31DC8DA85258E31002DCF6A/$FILE/Michael-Kratsios-06.10.2026-278T.pdf",
+        "timestamp": "2026-07-13T15:40:35.747746",
+        "email_sent": false
+    },
+    {
         "id": "house_20034790_g0",
         "ticker": "FLL",
         "filer_name": "Susie Lee",
@@ -1779,24 +1797,6 @@
         "alert_type": "BUY_OPPORTUNITY",
         "doc_url": "https://efdsearch.senate.gov/search/view/ptr/2e076759-19df-458d-a3be-53610b8be5d0/",
         "timestamp": "2026-06-18T16:29:07.859450",
-        "email_sent": false
-    },
-    {
-        "id": "senate_2e076759-19df-458d-a3be-53610b8be5d0_t14",
-        "ticker": "ALB",
-        "filer_name": "John Boozman",
-        "party": "R",
-        "state": "AR",
-        "chamber": "senate",
-        "transaction_type": "Purchase",
-        "transaction_date": "2026-05-15",
-        "amount_range_label": "$1,001 - $15,000",
-        "hist_price": 179.92071533203125,
-        "current_price": 160.63999938964844,
-        "diff_pct": -10.716229038330347,
-        "alert_type": "BUY_OPPORTUNITY",
-        "doc_url": "https://efdsearch.senate.gov/search/view/ptr/2e076759-19df-458d-a3be-53610b8be5d0/",
-        "timestamp": "2026-06-18T16:29:07.639615",
         "email_sent": false
     }
 ]
