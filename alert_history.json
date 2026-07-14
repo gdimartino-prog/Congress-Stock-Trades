@@ -2533,5 +2533,125 @@
         "status": "processed",
         "processed_at": "2026-07-13T15:40:35.747772",
         "alert_triggered": true
+    },
+    "senate_c52854ed-a778-483a-883c-0ba2bba17877_t1": {
+        "status": "processed",
+        "processed_at": "2026-07-14T14:47:10.058336",
+        "alert_triggered": true
+    },
+    "senate_c52854ed-a778-483a-883c-0ba2bba17877_t0": {
+        "status": "processed",
+        "processed_at": "2026-07-14T14:47:10.280111",
+        "alert_triggered": true
+    },
+    "senate_9c0b720d-7e27-4b02-8cf5-a85ba88c9543_t1": {
+        "status": "processed",
+        "processed_at": "2026-07-14T14:47:10.454650",
+        "alert_triggered": false
+    },
+    "senate_9c0b720d-7e27-4b02-8cf5-a85ba88c9543_t0": {
+        "status": "processed",
+        "processed_at": "2026-07-14T14:47:10.682639",
+        "alert_triggered": false
+    },
+    "senate_c52854ed-a778-483a-883c-0ba2bba17877_t2": {
+        "status": "processed",
+        "processed_at": "2026-07-14T14:47:10.935700",
+        "alert_triggered": false
+    },
+    "senate_c52854ed-a778-483a-883c-0ba2bba17877_t3": {
+        "status": "processed",
+        "processed_at": "2026-07-14T14:47:11.217049",
+        "alert_triggered": true
+    },
+    "senate_c52854ed-a778-483a-883c-0ba2bba17877_t4": {
+        "status": "processed",
+        "processed_at": "2026-07-14T14:47:11.357541",
+        "alert_triggered": false
+    },
+    "senate_9c0b720d-7e27-4b02-8cf5-a85ba88c9543_t4": {
+        "status": "processed",
+        "processed_at": "2026-07-14T14:47:11.646045",
+        "alert_triggered": false
+    },
+    "house_20034977_g3": {
+        "status": "processed",
+        "processed_at": "2026-07-14T14:47:11.920330",
+        "alert_triggered": true
+    },
+    "house_20034977_g2": {
+        "status": "processed",
+        "processed_at": "2026-07-14T14:47:12.163961",
+        "alert_triggered": true
+    },
+    "house_20034977_g1": {
+        "status": "processed",
+        "processed_at": "2026-07-14T14:47:12.413262",
+        "alert_triggered": true
+    },
+    "house_20034977_g0": {
+        "status": "processed",
+        "processed_at": "2026-07-14T14:47:12.712548",
+        "alert_triggered": false
+    },
+    "house_20034949_g0": {
+        "status": "processed",
+        "processed_at": "2026-07-14T14:47:12.844032",
+        "alert_triggered": true
+    },
+    "house_20034895_g2": {
+        "status": "failed",
+        "processed_at": "2026-07-14T14:47:13.019843",
+        "reason": "price_fetch_failed"
+    },
+    "house_20034895_g1": {
+        "status": "failed",
+        "processed_at": "2026-07-14T14:47:13.074071",
+        "reason": "price_fetch_failed"
+    },
+    "house_20034895_g0": {
+        "status": "processed",
+        "processed_at": "2026-07-14T14:47:13.370341",
+        "alert_triggered": true
+    },
+    "house_9116211_g36": {
+        "status": "processed",
+        "processed_at": "2026-07-14T14:47:13.595978",
+        "alert_triggered": false
+    },
+    "house_9116211_g124": {
+        "status": "processed",
+        "processed_at": "2026-07-14T14:47:13.863276",
+        "alert_triggered": false
+    },
+    "house_9116211_g118": {
+        "status": "processed",
+        "processed_at": "2026-07-14T14:47:13.888952",
+        "alert_triggered": false
+    },
+    "house_9116211_g111": {
+        "status": "processed",
+        "processed_at": "2026-07-14T14:47:14.474801",
+        "alert_triggered": true
+    },
+    "house_9116211_g29": {
+        "status": "processed",
+        "processed_at": "2026-07-14T14:47:14.600580",
+        "alert_triggered": false
+    },
+    "house_9116211_g125": {
+        "status": "processed",
+        "processed_at": "2026-07-14T14:47:16.315807",
+        "alert_triggered": false
+    },
+    "house_9116211_g119": {
+        "status": "processed",
+        "processed_at": "2026-07-14T14:47:16.343393",
+        "alert_triggered": false
+    },
+    "house_9116211_g115": {
+        "status": "processed",
+        "processed_at": "2026-07-14T14:47:16.581524",
+        "alert_triggered": false
     }
 }
