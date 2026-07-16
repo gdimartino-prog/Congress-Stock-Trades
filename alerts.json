@@ -1,5 +1,23 @@
 [
     {
+        "id": "house_20034999_g0",
+        "ticker": "ICHR",
+        "filer_name": "Debbie Wasserman Schultz",
+        "party": "D",
+        "state": "FL",
+        "chamber": "house",
+        "transaction_type": "Sale (Full)",
+        "transaction_date": "2026-06-17",
+        "amount_range_label": "$1,001 - $15,000",
+        "hist_price": 89.44999694824219,
+        "current_price": 90.05500030517578,
+        "diff_pct": 0.6763592818048529,
+        "alert_type": "SELL_HIT",
+        "doc_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034999.pdf",
+        "timestamp": "2026-07-16T14:58:40.469821",
+        "email_sent": false
+    },
+    {
         "id": "house_9116211_g111",
         "ticker": "CVX",
         "filer_name": "Michael T. McCaul",
@@ -1779,24 +1797,6 @@
         "alert_type": "SELL_HIT",
         "doc_url": "https://efdsearch.senate.gov/search/view/ptr/727b4eb6-d8c7-4792-aa5b-c651c2d72f9c/",
         "timestamp": "2026-06-18T16:29:09.887587",
-        "email_sent": false
-    },
-    {
-        "id": "senate_727b4eb6-d8c7-4792-aa5b-c651c2d72f9c_t10",
-        "ticker": "CMBS",
-        "filer_name": "John Boozman",
-        "party": "R",
-        "state": "AR",
-        "chamber": "senate",
-        "transaction_type": "Sale (Partial)",
-        "transaction_date": "2026-05-13",
-        "amount_range_label": "$1,001 - $15,000",
-        "hist_price": 48.395774841308594,
-        "current_price": 48.5,
-        "diff_pct": 0.2153600371792044,
-        "alert_type": "SELL_HIT",
-        "doc_url": "https://efdsearch.senate.gov/search/view/ptr/727b4eb6-d8c7-4792-aa5b-c651c2d72f9c/",
-        "timestamp": "2026-06-18T16:29:09.851565",
         "email_sent": false
     }
 ]

@@ -2653,5 +2653,20 @@
         "status": "processed",
         "processed_at": "2026-07-14T14:47:16.581524",
         "alert_triggered": false
+    },
+    "house_20034960_g1": {
+        "status": "failed",
+        "processed_at": "2026-07-16T14:58:39.989762",
+        "reason": "price_fetch_failed"
+    },
+    "house_20034960_g0": {
+        "status": "failed",
+        "processed_at": "2026-07-16T14:58:40.018109",
+        "reason": "price_fetch_failed"
+    },
+    "house_20034999_g0": {
+        "status": "processed",
+        "processed_at": "2026-07-16T14:58:40.469866",
+        "alert_triggered": true
     }
 }
