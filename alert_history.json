@@ -2948,5 +2948,20 @@
         "status": "processed",
         "processed_at": "2026-07-21T15:01:49.352385",
         "alert_triggered": false
+    },
+    "house_20035047_t2": {
+        "status": "processed",
+        "processed_at": "2026-07-22T15:02:04.113257",
+        "alert_triggered": false
+    },
+    "house_20035047_t1": {
+        "status": "processed",
+        "processed_at": "2026-07-22T15:02:04.551533",
+        "alert_triggered": true
+    },
+    "house_20035047_t0": {
+        "status": "processed",
+        "processed_at": "2026-07-22T15:02:04.943105",
+        "alert_triggered": true
     }
 }
