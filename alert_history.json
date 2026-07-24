@@ -2963,5 +2963,505 @@
         "status": "processed",
         "processed_at": "2026-07-22T15:02:04.943105",
         "alert_triggered": true
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t2": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:10.860535",
+        "alert_triggered": false
+    },
+    "senate_cff197e2-b90b-4b53-b97d-eecf226a1980_t1": {
+        "status": "failed",
+        "processed_at": "2026-07-24T14:53:11.508240",
+        "reason": "price_fetch_failed"
+    },
+    "senate_cff197e2-b90b-4b53-b97d-eecf226a1980_t0": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:11.934499",
+        "alert_triggered": true
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t1": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:12.064177",
+        "alert_triggered": true
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t35": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:12.394169",
+        "alert_triggered": true
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t34": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:12.930380",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t33": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:13.456855",
+        "alert_triggered": true
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t32": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:15.020106",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t31": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:15.338544",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t30": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:15.734818",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t29": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:16.056140",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t28": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:16.375731",
+        "alert_triggered": true
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t27": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:16.677964",
+        "alert_triggered": true
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t26": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:17.078964",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t25": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:17.355721",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t24": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:17.744126",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t23": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:18.108766",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t22": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:18.517685",
+        "alert_triggered": true
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t21": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:18.839798",
+        "alert_triggered": true
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t20": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:19.637172",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t19": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:19.953315",
+        "alert_triggered": true
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t18": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:20.320737",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t17": {
+        "status": "failed",
+        "processed_at": "2026-07-24T14:53:21.105473",
+        "reason": "price_fetch_failed"
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t16": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:21.409611",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t12": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:21.586372",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t528": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:21.841155",
+        "alert_triggered": true
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t525": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:22.280487",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t523": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:22.600748",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t520": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:22.712476",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t518": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:23.125383",
+        "alert_triggered": true
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t516": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:23.463891",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t514": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:24.269205",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t510": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:24.583586",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t507": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:24.857673",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t505": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:25.293878",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t503": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:25.649876",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t501": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:25.961792",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t499": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:26.255643",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t497": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:26.574809",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t495": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:26.737614",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t493": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:27.070270",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t491": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:27.497502",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t489": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:27.712888",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t487": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:27.930039",
+        "alert_triggered": true
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t486": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:28.151739",
+        "alert_triggered": true
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t484": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:28.406536",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t478": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:28.797671",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t477": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:29.066075",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t475": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:29.349127",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t474": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:30.162243",
+        "alert_triggered": true
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t473": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:30.493002",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t472": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:30.907237",
+        "alert_triggered": true
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t471": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:31.307968",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t470": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:31.606848",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t469": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:31.885329",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t468": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:32.203306",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t467": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:32.499000",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t466": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:32.809366",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t465": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:33.400797",
+        "alert_triggered": true
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t464": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:33.784143",
+        "alert_triggered": true
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t463": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:34.143805",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t462": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:35.036630",
+        "alert_triggered": true
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t461": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:35.356175",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t460": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:35.658634",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t459": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:36.088632",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t458": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:36.392553",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t457": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:36.660818",
+        "alert_triggered": true
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t456": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:37.129725",
+        "alert_triggered": true
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t455": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:37.403566",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t454": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:37.574432",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t453": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:38.023126",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t452": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:38.436933",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t451": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:38.904461",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t448": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:39.181894",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t446": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:39.455179",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t445": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:39.684569",
+        "alert_triggered": true
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t442": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:39.925364",
+        "alert_triggered": true
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t440": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:40.137857",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t438": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:40.377560",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t436": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:40.799290",
+        "alert_triggered": true
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t434": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:41.109126",
+        "alert_triggered": true
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t432": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:41.336031",
+        "alert_triggered": true
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t430": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:41.574591",
+        "alert_triggered": true
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t429": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:42.301481",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t427": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:42.631067",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t426": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:42.944046",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t424": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:43.460436",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t422": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:43.831716",
+        "alert_triggered": true
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t421": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:44.153939",
+        "alert_triggered": true
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t420": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:44.599542",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t419": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:44.804376",
+        "alert_triggered": true
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t350": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:45.027122",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t349": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:45.399933",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t348": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:45.809039",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t347": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:46.159592",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t346": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:46.482385",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t345": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:47.162170",
+        "alert_triggered": true
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t344": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:47.920159",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t343": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:48.095910",
+        "alert_triggered": false
+    },
+    "senate_fda235b3-bad7-4637-8fa1-053f354d929c_t342": {
+        "status": "processed",
+        "processed_at": "2026-07-24T14:53:48.581109",
+        "alert_triggered": true
     }
 }
