@@ -3463,5 +3463,390 @@
         "status": "processed",
         "processed_at": "2026-07-24T14:53:48.581109",
         "alert_triggered": true
+    },
+    "oge_Scott-A-Kupor-06_22_2026-278T_1__pdf_t3": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:22.289774",
+        "alert_triggered": false
+    },
+    "oge_Scott-A-Kupor-06_22_2026-278T_1__pdf_t2": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:22.322498",
+        "alert_triggered": false
+    },
+    "oge_Scott-A-Kupor-06_22_2026-278T_1__pdf_t1": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:22.531266",
+        "alert_triggered": true
+    },
+    "oge_Scott-A-Kupor-06_22_2026-278T_1__pdf_t0": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:22.565196",
+        "alert_triggered": true
+    },
+    "oge_Scott-A-Kupor-06_22_2026-278T_pdf_t0": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:22.598239",
+        "alert_triggered": true
+    },
+    "oge_Markwayne-Mullin-06_24_2026-278T_pdf_t65": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:22.896930",
+        "alert_triggered": true
+    },
+    "oge_Markwayne-Mullin-06_24_2026-278T_pdf_t64": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:23.183540",
+        "alert_triggered": true
+    },
+    "oge_Markwayne-Mullin-06_24_2026-278T_pdf_t63": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:23.673186",
+        "alert_triggered": true
+    },
+    "oge_Markwayne-Mullin-06_24_2026-278T_pdf_t61": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:24.050257",
+        "alert_triggered": true
+    },
+    "oge_Markwayne-Mullin-06_24_2026-278T_pdf_t60": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:24.493679",
+        "alert_triggered": false
+    },
+    "oge_Markwayne-Mullin-06_24_2026-278T_pdf_t59": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:24.821628",
+        "alert_triggered": true
+    },
+    "oge_Markwayne-Mullin-06_24_2026-278T_pdf_t58": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:25.179416",
+        "alert_triggered": true
+    },
+    "oge_Markwayne-Mullin-06_24_2026-278T_pdf_t53": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:25.511837",
+        "alert_triggered": true
+    },
+    "oge_Markwayne-Mullin-06_24_2026-278T_pdf_t52": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:26.038441",
+        "alert_triggered": true
+    },
+    "oge_Markwayne-Mullin-06_24_2026-278T_pdf_t50": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:26.375873",
+        "alert_triggered": true
+    },
+    "oge_Markwayne-Mullin-06_24_2026-278T_pdf_t48": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:27.545026",
+        "alert_triggered": true
+    },
+    "oge_Markwayne-Mullin-06_24_2026-278T_pdf_t47": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:27.756618",
+        "alert_triggered": true
+    },
+    "oge_Markwayne-Mullin-06_24_2026-278T_pdf_t46": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:28.106387",
+        "alert_triggered": true
+    },
+    "oge_Markwayne-Mullin-06_24_2026-278T_pdf_t45": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:28.430356",
+        "alert_triggered": true
+    },
+    "oge_Markwayne-Mullin-06_24_2026-278T_pdf_t41": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:28.658634",
+        "alert_triggered": true
+    },
+    "oge_Markwayne-Mullin-06_24_2026-278T_pdf_t36": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:29.324524",
+        "alert_triggered": true
+    },
+    "oge_Markwayne-Mullin-06_24_2026-278T_pdf_t35": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:29.572867",
+        "alert_triggered": false
+    },
+    "oge_Markwayne-Mullin-06_24_2026-278T_pdf_t34": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:29.955317",
+        "alert_triggered": false
+    },
+    "oge_Markwayne-Mullin-06_24_2026-278T_pdf_t33": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:30.244017",
+        "alert_triggered": false
+    },
+    "oge_Markwayne-Mullin-06_24_2026-278T_pdf_t31": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:30.601489",
+        "alert_triggered": true
+    },
+    "oge_Markwayne-Mullin-06_24_2026-278T_pdf_t27": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:30.856098",
+        "alert_triggered": true
+    },
+    "oge_Markwayne-Mullin-06_24_2026-278T_pdf_t25": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:31.156602",
+        "alert_triggered": false
+    },
+    "oge_Markwayne-Mullin-06_24_2026-278T_pdf_t24": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:31.456956",
+        "alert_triggered": true
+    },
+    "oge_Markwayne-Mullin-06_24_2026-278T_pdf_t20": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:31.862192",
+        "alert_triggered": true
+    },
+    "oge_Markwayne-Mullin-06_24_2026-278T_pdf_t18": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:32.365619",
+        "alert_triggered": true
+    },
+    "oge_Markwayne-Mullin-06_24_2026-278T_pdf_t17": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:32.652629",
+        "alert_triggered": false
+    },
+    "oge_Markwayne-Mullin-06_24_2026-278T_pdf_t14": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:33.154448",
+        "alert_triggered": true
+    },
+    "oge_Markwayne-Mullin-06_24_2026-278T_pdf_t13": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:33.613220",
+        "alert_triggered": false
+    },
+    "oge_Markwayne-Mullin-06_24_2026-278T_pdf_t11": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:34.332832",
+        "alert_triggered": true
+    },
+    "oge_Markwayne-Mullin-06_24_2026-278T_pdf_t10": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:34.775382",
+        "alert_triggered": true
+    },
+    "oge_Markwayne-Mullin-06_24_2026-278T_pdf_t7": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:35.876539",
+        "alert_triggered": true
+    },
+    "oge_Markwayne-Mullin-06_24_2026-278T_pdf_t5": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:36.198888",
+        "alert_triggered": true
+    },
+    "oge_Markwayne-Mullin-06_24_2026-278T_pdf_t4": {
+        "status": "failed",
+        "processed_at": "2026-07-25T14:29:36.374563",
+        "reason": "price_fetch_failed"
+    },
+    "oge_Markwayne-Mullin-06_24_2026-278T_pdf_t3": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:36.814388",
+        "alert_triggered": true
+    },
+    "oge_Markwayne-Mullin-06_24_2026-278T_pdf_t2": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:37.095334",
+        "alert_triggered": false
+    },
+    "oge_Markwayne-Mullin-06_24_2026-278T_pdf_t1": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:37.326844",
+        "alert_triggered": false
+    },
+    "oge_Markwayne-Mullin-06_24_2026-278T_pdf_t62": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:37.741878",
+        "alert_triggered": true
+    },
+    "oge_Markwayne-Mullin-06_24_2026-278T_pdf_t57": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:38.175357",
+        "alert_triggered": false
+    },
+    "oge_Markwayne-Mullin-06_24_2026-278T_pdf_t55": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:38.473676",
+        "alert_triggered": false
+    },
+    "oge_Markwayne-Mullin-06_24_2026-278T_pdf_t51": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:39.181508",
+        "alert_triggered": true
+    },
+    "oge_Markwayne-Mullin-06_24_2026-278T_pdf_t49": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:39.570732",
+        "alert_triggered": false
+    },
+    "oge_Markwayne-Mullin-06_24_2026-278T_pdf_t43": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:39.855902",
+        "alert_triggered": false
+    },
+    "oge_Markwayne-Mullin-06_24_2026-278T_pdf_t40": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:40.136517",
+        "alert_triggered": true
+    },
+    "oge_Markwayne-Mullin-06_24_2026-278T_pdf_t37": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:40.404690",
+        "alert_triggered": true
+    },
+    "oge_Markwayne-Mullin-06_24_2026-278T_pdf_t30": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:40.612102",
+        "alert_triggered": true
+    },
+    "oge_Markwayne-Mullin-06_24_2026-278T_pdf_t28": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:40.897303",
+        "alert_triggered": false
+    },
+    "oge_Markwayne-Mullin-06_24_2026-278T_pdf_t26": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:41.316399",
+        "alert_triggered": true
+    },
+    "oge_Markwayne-Mullin-06_24_2026-278T_pdf_t19": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:41.592189",
+        "alert_triggered": false
+    },
+    "oge_Markwayne-Mullin-06_24_2026-278T_pdf_t9": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:41.895115",
+        "alert_triggered": true
+    },
+    "oge_Markwayne-Mullin-06_24_2026-278T_pdf_t8": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:42.131030",
+        "alert_triggered": false
+    },
+    "oge_Markwayne-Mullin-06_26_2026-278T_pdf_t21": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:42.512641",
+        "alert_triggered": true
+    },
+    "oge_Markwayne-Mullin-06_26_2026-278T_pdf_t20": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:42.833716",
+        "alert_triggered": false
+    },
+    "oge_Markwayne-Mullin-06_26_2026-278T_pdf_t19": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:43.179273",
+        "alert_triggered": false
+    },
+    "oge_Markwayne-Mullin-06_26_2026-278T_pdf_t18": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:43.443760",
+        "alert_triggered": false
+    },
+    "oge_Markwayne-Mullin-06_26_2026-278T_pdf_t17": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:43.820420",
+        "alert_triggered": false
+    },
+    "oge_Markwayne-Mullin-06_26_2026-278T_pdf_t16": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:44.091434",
+        "alert_triggered": false
+    },
+    "oge_Markwayne-Mullin-06_26_2026-278T_pdf_t15": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:44.347351",
+        "alert_triggered": false
+    },
+    "oge_Markwayne-Mullin-06_26_2026-278T_pdf_t14": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:44.747641",
+        "alert_triggered": true
+    },
+    "oge_Markwayne-Mullin-06_26_2026-278T_pdf_t12": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:44.995993",
+        "alert_triggered": false
+    },
+    "oge_Markwayne-Mullin-06_26_2026-278T_pdf_t11": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:45.305810",
+        "alert_triggered": true
+    },
+    "oge_Markwayne-Mullin-06_26_2026-278T_pdf_t10": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:45.339559",
+        "alert_triggered": false
+    },
+    "oge_Markwayne-Mullin-06_26_2026-278T_pdf_t9": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:45.482496",
+        "alert_triggered": false
+    },
+    "oge_Markwayne-Mullin-06_26_2026-278T_pdf_t8": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:45.593113",
+        "alert_triggered": false
+    },
+    "oge_Markwayne-Mullin-06_26_2026-278T_pdf_t7": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:45.723813",
+        "alert_triggered": false
+    },
+    "oge_Markwayne-Mullin-06_26_2026-278T_pdf_t6": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:45.823654",
+        "alert_triggered": false
+    },
+    "oge_Markwayne-Mullin-06_26_2026-278T_pdf_t5": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:45.934450",
+        "alert_triggered": false
+    },
+    "oge_Markwayne-Mullin-06_26_2026-278T_pdf_t4": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:46.085090",
+        "alert_triggered": true
+    },
+    "oge_Markwayne-Mullin-06_26_2026-278T_pdf_t3": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:46.282079",
+        "alert_triggered": true
+    },
+    "oge_Markwayne-Mullin-06_26_2026-278T_pdf_t2": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:46.379005",
+        "alert_triggered": false
+    },
+    "oge_Markwayne-Mullin-06_26_2026-278T_pdf_t1": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:46.488480",
+        "alert_triggered": true
+    },
+    "oge_Markwayne-Mullin-06_26_2026-278T_pdf_t0": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:46.604047",
+        "alert_triggered": false
+    },
+    "senate_bccf83ce-dd72-4ab6-8564-b3bbb1d2ee55_t0": {
+        "status": "processed",
+        "processed_at": "2026-07-25T14:29:46.929582",
+        "alert_triggered": true
     }
 }
