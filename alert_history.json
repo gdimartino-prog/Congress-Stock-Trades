@@ -3923,5 +3923,15 @@
         "status": "processed",
         "processed_at": "2026-07-28T15:18:24.586770",
         "alert_triggered": true
+    },
+    "house_20035023_g0": {
+        "status": "processed",
+        "processed_at": "2026-08-01T14:24:45.619229",
+        "alert_triggered": true
+    },
+    "house_20034972_g0": {
+        "status": "failed",
+        "processed_at": "2026-08-01T14:24:45.892432",
+        "reason": "price_fetch_failed"
     }
 }

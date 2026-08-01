@@ -1,5 +1,23 @@
 [
     {
+        "id": "house_20035023_g0",
+        "ticker": "TSM",
+        "filer_name": "Cleo Fields",
+        "party": "D",
+        "state": "LA",
+        "chamber": "house",
+        "transaction_type": "Purchase",
+        "transaction_date": "2026-07-10",
+        "amount_range_label": "$1,001 - $15,000",
+        "hist_price": 434.1099853515625,
+        "current_price": 404.25,
+        "diff_pct": -6.8784378058893285,
+        "alert_type": "BUY_OPPORTUNITY",
+        "doc_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035023.pdf",
+        "timestamp": "2026-08-01T14:24:45.619204",
+        "email_sent": false
+    },
+    {
         "id": "house_20034963_g13",
         "ticker": "SPCX",
         "filer_name": "Jared Moskowitz",
@@ -1779,24 +1797,6 @@
         "alert_type": "BUY_OPPORTUNITY",
         "doc_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034908.pdf",
         "timestamp": "2026-07-17T14:41:41.223114",
-        "email_sent": false
-    },
-    {
-        "id": "house_20034908_g1",
-        "ticker": "MCK",
-        "filer_name": "Jonathan Jackson",
-        "party": "D",
-        "state": "IL",
-        "chamber": "house",
-        "transaction_type": "Sale (Full)",
-        "transaction_date": "2026-06-15",
-        "amount_range_label": "$1,001 - $15,000",
-        "hist_price": 779.780029296875,
-        "current_price": 853.260009765625,
-        "diff_pct": 9.423167779124409,
-        "alert_type": "SELL_HIT",
-        "doc_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034908.pdf",
-        "timestamp": "2026-07-17T14:41:40.545564",
         "email_sent": false
     }
 ]
