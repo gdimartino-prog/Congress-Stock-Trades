@@ -1,5 +1,23 @@
 [
     {
+        "id": "senate_96db6e64-f7c3-4483-b0aa-af10ba2bdbbd_t0",
+        "ticker": "LOW",
+        "filer_name": "Sheldon Whitehouse",
+        "party": "D",
+        "state": "RI",
+        "chamber": "senate",
+        "transaction_type": "Sale (Partial)",
+        "transaction_date": "2026-07-20",
+        "amount_range_label": "$1,001 - $15,000",
+        "hist_price": 203.45263671875,
+        "current_price": 215.44500732421875,
+        "diff_pct": 5.8944286979415415,
+        "alert_type": "SELL_HIT",
+        "doc_url": "https://efdsearch.senate.gov/search/view/ptr/96db6e64-f7c3-4483-b0aa-af10ba2bdbbd/",
+        "timestamp": "2026-08-04T15:22:33.042297",
+        "email_sent": false
+    },
+    {
         "id": "house_20035023_g0",
         "ticker": "TSM",
         "filer_name": "Cleo Fields",
@@ -1779,24 +1797,6 @@
         "alert_type": "SELL_HIT",
         "doc_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034945.pdf",
         "timestamp": "2026-07-17T14:41:41.880387",
-        "email_sent": false
-    },
-    {
-        "id": "house_20034908_g0",
-        "ticker": "HLT",
-        "filer_name": "Jonathan Jackson",
-        "party": "D",
-        "state": "IL",
-        "chamber": "house",
-        "transaction_type": "Purchase",
-        "transaction_date": "2026-06-15",
-        "amount_range_label": "$1,001 - $15,000",
-        "hist_price": 347.1099853515625,
-        "current_price": 321.1000061035156,
-        "diff_pct": -7.4932961728840075,
-        "alert_type": "BUY_OPPORTUNITY",
-        "doc_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034908.pdf",
-        "timestamp": "2026-07-17T14:41:41.223114",
         "email_sent": false
     }
 ]

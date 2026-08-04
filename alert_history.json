@@ -3933,5 +3933,10 @@
         "status": "failed",
         "processed_at": "2026-08-01T14:24:45.892432",
         "reason": "price_fetch_failed"
+    },
+    "senate_96db6e64-f7c3-4483-b0aa-af10ba2bdbbd_t0": {
+        "status": "processed",
+        "processed_at": "2026-08-04T15:22:33.042323",
+        "alert_triggered": true
     }
 }
