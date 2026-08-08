@@ -4718,5 +4718,50 @@
         "status": "processed",
         "processed_at": "2026-08-07T14:11:37.712019",
         "alert_triggered": true
+    },
+    "oge_Michael-J-Kratsios-07_09_2026-278T_pdf_g0": {
+        "status": "processed",
+        "processed_at": "2026-08-08T13:42:34.818548",
+        "alert_triggered": true
+    },
+    "oge_Frank-J-Bisignano-07_07_2026-278T_pdf_g1": {
+        "status": "processed",
+        "processed_at": "2026-08-08T13:42:35.337566",
+        "alert_triggered": false
+    },
+    "oge_Frank-J-Bisignano-07_07_2026-278T_pdf_g0": {
+        "status": "processed",
+        "processed_at": "2026-08-08T13:42:35.379141",
+        "alert_triggered": false
+    },
+    "house_20035146_g5": {
+        "status": "processed",
+        "processed_at": "2026-08-08T13:42:35.830798",
+        "alert_triggered": false
+    },
+    "house_20035146_g4": {
+        "status": "processed",
+        "processed_at": "2026-08-08T13:42:36.271523",
+        "alert_triggered": false
+    },
+    "house_20035146_g3": {
+        "status": "processed",
+        "processed_at": "2026-08-08T13:42:36.888692",
+        "alert_triggered": true
+    },
+    "house_20035146_g2": {
+        "status": "processed",
+        "processed_at": "2026-08-08T13:42:37.386294",
+        "alert_triggered": false
+    },
+    "house_20035146_g1": {
+        "status": "processed",
+        "processed_at": "2026-08-08T13:42:37.746671",
+        "alert_triggered": false
+    },
+    "house_20035146_g0": {
+        "status": "processed",
+        "processed_at": "2026-08-08T13:42:38.072742",
+        "alert_triggered": false
     }
 }
