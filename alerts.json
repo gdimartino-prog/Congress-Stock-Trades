@@ -1,5 +1,23 @@
 [
     {
+        "id": "senate_328a9b36-1205-4117-bdc4-cd7c3ccbcbbc_t0",
+        "ticker": "O",
+        "filer_name": "Gary C Peters",
+        "party": "D",
+        "state": "MI",
+        "chamber": "senate",
+        "transaction_type": "Purchase",
+        "transaction_date": "2026-07-23",
+        "amount_range_label": "$1,001 - $15,000",
+        "hist_price": 64.44778442382812,
+        "current_price": 61.399898529052734,
+        "diff_pct": -4.729233009363939,
+        "alert_type": "BUY_OPPORTUNITY",
+        "doc_url": "https://efdsearch.senate.gov/search/view/ptr/328a9b36-1205-4117-bdc4-cd7c3ccbcbbc/",
+        "timestamp": "2026-08-10T14:18:25.608288",
+        "email_sent": false
+    },
+    {
         "id": "house_20035146_g3",
         "ticker": "KR",
         "filer_name": "David J. Taylor",
@@ -1779,24 +1797,6 @@
         "alert_type": "SELL_HIT",
         "doc_url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/E856C1C9F19C67C785258E3F002DB290/$FILE/Markwayne-Mullin-06.26.2026-278T.pdf",
         "timestamp": "2026-07-25T14:29:46.282051",
-        "email_sent": false
-    },
-    {
-        "id": "oge_Markwayne-Mullin-06_26_2026-278T_pdf_t4",
-        "ticker": "CRS",
-        "filer_name": "Markwayne Mullin",
-        "party": null,
-        "state": null,
-        "chamber": null,
-        "transaction_type": "Sale (Full)",
-        "transaction_date": "2026-04-15",
-        "amount_range_label": "$50,001 - $100,000",
-        "hist_price": 428.46990966796875,
-        "current_price": 603.6900024414062,
-        "diff_pct": 40.89437526878366,
-        "alert_type": "SELL_HIT",
-        "doc_url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/E856C1C9F19C67C785258E3F002DB290/$FILE/Markwayne-Mullin-06.26.2026-278T.pdf",
-        "timestamp": "2026-07-25T14:29:46.085025",
         "email_sent": false
     }
 ]

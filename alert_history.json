@@ -4763,5 +4763,15 @@
         "status": "processed",
         "processed_at": "2026-08-08T13:42:38.072742",
         "alert_triggered": false
+    },
+    "senate_5ecc9b5c-07c1-4ec1-bd4a-2db759eff299_t0": {
+        "status": "processed",
+        "processed_at": "2026-08-10T14:18:25.317071",
+        "alert_triggered": false
+    },
+    "senate_328a9b36-1205-4117-bdc4-cd7c3ccbcbbc_t0": {
+        "status": "processed",
+        "processed_at": "2026-08-10T14:18:25.608317",
+        "alert_triggered": true
     }
 }
