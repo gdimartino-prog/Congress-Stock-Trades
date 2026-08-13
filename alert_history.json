@@ -5083,5 +5083,20 @@
         "status": "processed",
         "processed_at": "2026-08-12T14:19:00.361577",
         "alert_triggered": true
+    },
+    "house_20035203_g4": {
+        "status": "processed",
+        "processed_at": "2026-08-13T14:20:56.639314",
+        "alert_triggered": true
+    },
+    "house_20035203_g3": {
+        "status": "processed",
+        "processed_at": "2026-08-13T14:20:56.952274",
+        "alert_triggered": true
+    },
+    "house_20035203_g0": {
+        "status": "processed",
+        "processed_at": "2026-08-13T14:20:57.243155",
+        "alert_triggered": true
     }
 }
