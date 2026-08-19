@@ -5193,5 +5193,230 @@
         "status": "processed",
         "processed_at": "2026-08-15T13:27:06.494770",
         "alert_triggered": true
+    },
+    "senate_28e465df-caf1-4a98-8ebc-605e1e1ba99b_t0": {
+        "status": "processed",
+        "processed_at": "2026-08-19T13:40:49.747779",
+        "alert_triggered": false
+    },
+    "senate_4a558db2-e492-4e8f-8a28-7b703a5c8e08_t1": {
+        "status": "processed",
+        "processed_at": "2026-08-19T13:40:50.173999",
+        "alert_triggered": false
+    },
+    "senate_4184cc9a-78e0-45f3-84f7-642011e6ff98_t1": {
+        "status": "processed",
+        "processed_at": "2026-08-19T13:40:50.228453",
+        "alert_triggered": false
+    },
+    "senate_28e465df-caf1-4a98-8ebc-605e1e1ba99b_t1": {
+        "status": "processed",
+        "processed_at": "2026-08-19T13:40:50.669423",
+        "alert_triggered": true
+    },
+    "senate_4a558db2-e492-4e8f-8a28-7b703a5c8e08_t2": {
+        "status": "processed",
+        "processed_at": "2026-08-19T13:40:51.160005",
+        "alert_triggered": false
+    },
+    "senate_4184cc9a-78e0-45f3-84f7-642011e6ff98_t2": {
+        "status": "processed",
+        "processed_at": "2026-08-19T13:40:51.215826",
+        "alert_triggered": false
+    },
+    "senate_28e465df-caf1-4a98-8ebc-605e1e1ba99b_t2": {
+        "status": "processed",
+        "processed_at": "2026-08-19T13:40:51.667487",
+        "alert_triggered": true
+    },
+    "senate_4a558db2-e492-4e8f-8a28-7b703a5c8e08_t0": {
+        "status": "processed",
+        "processed_at": "2026-08-19T13:40:52.061294",
+        "alert_triggered": true
+    },
+    "senate_4184cc9a-78e0-45f3-84f7-642011e6ff98_t0": {
+        "status": "processed",
+        "processed_at": "2026-08-19T13:40:52.115410",
+        "alert_triggered": true
+    },
+    "senate_28e465df-caf1-4a98-8ebc-605e1e1ba99b_t3": {
+        "status": "processed",
+        "processed_at": "2026-08-19T13:40:52.560810",
+        "alert_triggered": true
+    },
+    "senate_4a558db2-e492-4e8f-8a28-7b703a5c8e08_t4": {
+        "status": "processed",
+        "processed_at": "2026-08-19T13:40:53.074640",
+        "alert_triggered": false
+    },
+    "senate_4a558db2-e492-4e8f-8a28-7b703a5c8e08_t3": {
+        "status": "processed",
+        "processed_at": "2026-08-19T13:40:53.578312",
+        "alert_triggered": false
+    },
+    "senate_4184cc9a-78e0-45f3-84f7-642011e6ff98_t5": {
+        "status": "processed",
+        "processed_at": "2026-08-19T13:40:53.764746",
+        "alert_triggered": false
+    },
+    "senate_4184cc9a-78e0-45f3-84f7-642011e6ff98_t4": {
+        "status": "processed",
+        "processed_at": "2026-08-19T13:40:53.818516",
+        "alert_triggered": false
+    },
+    "senate_4184cc9a-78e0-45f3-84f7-642011e6ff98_t3": {
+        "status": "processed",
+        "processed_at": "2026-08-19T13:40:53.873730",
+        "alert_triggered": false
+    },
+    "house_20035204_g25": {
+        "status": "processed",
+        "processed_at": "2026-08-19T13:40:54.363265",
+        "alert_triggered": true
+    },
+    "house_20035204_g24": {
+        "status": "processed",
+        "processed_at": "2026-08-19T13:40:54.772904",
+        "alert_triggered": false
+    },
+    "house_20035204_g23": {
+        "status": "processed",
+        "processed_at": "2026-08-19T13:40:55.201884",
+        "alert_triggered": false
+    },
+    "house_20035204_g22": {
+        "status": "processed",
+        "processed_at": "2026-08-19T13:40:55.653911",
+        "alert_triggered": false
+    },
+    "house_20035204_g21": {
+        "status": "processed",
+        "processed_at": "2026-08-19T13:40:56.207986",
+        "alert_triggered": true
+    },
+    "house_20035204_g20": {
+        "status": "processed",
+        "processed_at": "2026-08-19T13:40:56.701233",
+        "alert_triggered": true
+    },
+    "house_20035204_g19": {
+        "status": "processed",
+        "processed_at": "2026-08-19T13:40:57.184385",
+        "alert_triggered": false
+    },
+    "house_20035204_g18": {
+        "status": "processed",
+        "processed_at": "2026-08-19T13:40:57.581215",
+        "alert_triggered": true
+    },
+    "house_20035204_g17": {
+        "status": "processed",
+        "processed_at": "2026-08-19T13:40:58.037332",
+        "alert_triggered": true
+    },
+    "house_20035204_g16": {
+        "status": "processed",
+        "processed_at": "2026-08-19T13:40:58.624269",
+        "alert_triggered": false
+    },
+    "house_20035204_g15": {
+        "status": "processed",
+        "processed_at": "2026-08-19T13:40:59.087807",
+        "alert_triggered": true
+    },
+    "house_20035204_g14": {
+        "status": "processed",
+        "processed_at": "2026-08-19T13:40:59.635540",
+        "alert_triggered": true
+    },
+    "house_20035204_g13": {
+        "status": "processed",
+        "processed_at": "2026-08-19T13:41:00.040595",
+        "alert_triggered": false
+    },
+    "house_20035204_g12": {
+        "status": "processed",
+        "processed_at": "2026-08-19T13:41:00.689172",
+        "alert_triggered": true
+    },
+    "house_20035204_g11": {
+        "status": "processed",
+        "processed_at": "2026-08-19T13:41:00.888893",
+        "alert_triggered": true
+    },
+    "house_20035204_g10": {
+        "status": "processed",
+        "processed_at": "2026-08-19T13:41:01.534532",
+        "alert_triggered": true
+    },
+    "house_20035204_g9": {
+        "status": "processed",
+        "processed_at": "2026-08-19T13:41:02.003332",
+        "alert_triggered": true
+    },
+    "house_20035204_g8": {
+        "status": "processed",
+        "processed_at": "2026-08-19T13:41:02.406664",
+        "alert_triggered": false
+    },
+    "house_20035204_g7": {
+        "status": "processed",
+        "processed_at": "2026-08-19T13:41:02.829968",
+        "alert_triggered": true
+    },
+    "house_20035204_g6": {
+        "status": "failed",
+        "processed_at": "2026-08-19T13:41:03.485900",
+        "reason": "price_fetch_failed"
+    },
+    "house_20035204_g5": {
+        "status": "processed",
+        "processed_at": "2026-08-19T13:41:03.941660",
+        "alert_triggered": true
+    },
+    "house_20035204_g4": {
+        "status": "processed",
+        "processed_at": "2026-08-19T13:41:04.457967",
+        "alert_triggered": false
+    },
+    "house_20035204_g3": {
+        "status": "processed",
+        "processed_at": "2026-08-19T13:41:04.937518",
+        "alert_triggered": true
+    },
+    "house_20035204_g2": {
+        "status": "processed",
+        "processed_at": "2026-08-19T13:41:05.365067",
+        "alert_triggered": true
+    },
+    "house_20035204_g1": {
+        "status": "processed",
+        "processed_at": "2026-08-19T13:41:05.902702",
+        "alert_triggered": true
+    },
+    "house_20035204_g0": {
+        "status": "processed",
+        "processed_at": "2026-08-19T13:41:06.382687",
+        "alert_triggered": true
+    },
+    "house_20035130_g3": {
+        "status": "processed",
+        "processed_at": "2026-08-19T13:41:06.883088",
+        "alert_triggered": false
+    },
+    "house_20035130_g2": {
+        "status": "processed",
+        "processed_at": "2026-08-19T13:41:07.362181",
+        "alert_triggered": true
+    },
+    "house_20035130_g1": {
+        "status": "processed",
+        "processed_at": "2026-08-19T13:41:07.766870",
+        "alert_triggered": true
+    },
+    "house_20035130_g0": {
+        "status": "processed",
+        "processed_at": "2026-08-19T13:41:08.115606",
+        "alert_triggered": true
     }
 }
