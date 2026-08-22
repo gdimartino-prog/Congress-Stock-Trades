@@ -5558,5 +5558,70 @@
         "status": "processed",
         "processed_at": "2026-08-21T13:42:01.288798",
         "alert_triggered": true
+    },
+    "oge_Donald-J-Trump-08_12_2026-278T_pdf_g660": {
+        "status": "processed",
+        "processed_at": "2026-08-22T13:28:40.881850",
+        "alert_triggered": true
+    },
+    "oge_Donald-J-Trump-08_12_2026-278T_pdf_g659": {
+        "status": "processed",
+        "processed_at": "2026-08-22T13:28:41.189571",
+        "alert_triggered": true
+    },
+    "oge_Donald-J-Trump-08_12_2026-278T_pdf_g655": {
+        "status": "processed",
+        "processed_at": "2026-08-22T13:28:41.450998",
+        "alert_triggered": true
+    },
+    "oge_Donald-J-Trump-08_12_2026-278T_pdf_g654": {
+        "status": "processed",
+        "processed_at": "2026-08-22T13:28:41.668273",
+        "alert_triggered": true
+    },
+    "oge_Donald-J-Trump-08_12_2026-278T_pdf_g651": {
+        "status": "processed",
+        "processed_at": "2026-08-22T13:28:41.838328",
+        "alert_triggered": true
+    },
+    "oge_Donald-J-Trump-08_12_2026-278T_pdf_g649": {
+        "status": "processed",
+        "processed_at": "2026-08-22T13:28:42.158413",
+        "alert_triggered": false
+    },
+    "oge_Donald-J-Trump-08_12_2026-278T_pdf_g646": {
+        "status": "processed",
+        "processed_at": "2026-08-22T13:28:42.410021",
+        "alert_triggered": false
+    },
+    "oge_Donald-J-Trump-08_12_2026-278T_pdf_g633": {
+        "status": "processed",
+        "processed_at": "2026-08-22T13:28:42.579044",
+        "alert_triggered": true
+    },
+    "oge_Donald-J-Trump-08_12_2026-278T_pdf_g627": {
+        "status": "processed",
+        "processed_at": "2026-08-22T13:28:42.798323",
+        "alert_triggered": true
+    },
+    "oge_Donald-J-Trump-08_12_2026-278T_pdf_g625": {
+        "status": "processed",
+        "processed_at": "2026-08-22T13:28:43.009881",
+        "alert_triggered": false
+    },
+    "oge_Donald-J-Trump-08_12_2026-278T_pdf_g607": {
+        "status": "processed",
+        "processed_at": "2026-08-22T13:28:43.311862",
+        "alert_triggered": true
+    },
+    "oge_Donald-J-Trump-08_12_2026-278T_pdf_g592": {
+        "status": "processed",
+        "processed_at": "2026-08-22T13:28:43.715504",
+        "alert_triggered": true
+    },
+    "oge_Donald-J-Trump-08_12_2026-278T_pdf_g573": {
+        "status": "processed",
+        "processed_at": "2026-08-22T13:28:43.939294",
+        "alert_triggered": false
     }
 }
