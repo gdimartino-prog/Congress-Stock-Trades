@@ -5858,5 +5858,75 @@
         "status": "processed",
         "processed_at": "2026-08-25T13:46:41.527046",
         "alert_triggered": false
+    },
+    "senate_51455bcd-4966-4e77-b481-09897ada81ae_t13": {
+        "status": "processed",
+        "processed_at": "2026-08-26T13:52:06.842774",
+        "alert_triggered": true
+    },
+    "senate_51455bcd-4966-4e77-b481-09897ada81ae_t12": {
+        "status": "processed",
+        "processed_at": "2026-08-26T13:52:07.086467",
+        "alert_triggered": true
+    },
+    "senate_51455bcd-4966-4e77-b481-09897ada81ae_t11": {
+        "status": "processed",
+        "processed_at": "2026-08-26T13:52:07.317386",
+        "alert_triggered": false
+    },
+    "senate_51455bcd-4966-4e77-b481-09897ada81ae_t7": {
+        "status": "processed",
+        "processed_at": "2026-08-26T13:52:07.623170",
+        "alert_triggered": true
+    },
+    "senate_51455bcd-4966-4e77-b481-09897ada81ae_t6": {
+        "status": "processed",
+        "processed_at": "2026-08-26T13:52:07.894654",
+        "alert_triggered": true
+    },
+    "senate_51455bcd-4966-4e77-b481-09897ada81ae_t5": {
+        "status": "processed",
+        "processed_at": "2026-08-26T13:52:08.297370",
+        "alert_triggered": true
+    },
+    "senate_51455bcd-4966-4e77-b481-09897ada81ae_t2": {
+        "status": "processed",
+        "processed_at": "2026-08-26T13:52:08.646401",
+        "alert_triggered": true
+    },
+    "senate_51455bcd-4966-4e77-b481-09897ada81ae_t1": {
+        "status": "processed",
+        "processed_at": "2026-08-26T13:52:08.883472",
+        "alert_triggered": true
+    },
+    "senate_51455bcd-4966-4e77-b481-09897ada81ae_t0": {
+        "status": "processed",
+        "processed_at": "2026-08-26T13:52:09.126403",
+        "alert_triggered": true
+    },
+    "senate_51455bcd-4966-4e77-b481-09897ada81ae_t10": {
+        "status": "processed",
+        "processed_at": "2026-08-26T13:52:09.360320",
+        "alert_triggered": true
+    },
+    "senate_51455bcd-4966-4e77-b481-09897ada81ae_t8": {
+        "status": "processed",
+        "processed_at": "2026-08-26T13:52:09.657753",
+        "alert_triggered": true
+    },
+    "senate_51455bcd-4966-4e77-b481-09897ada81ae_t4": {
+        "status": "failed",
+        "processed_at": "2026-08-26T13:52:09.929677",
+        "reason": "price_fetch_failed"
+    },
+    "senate_51455bcd-4966-4e77-b481-09897ada81ae_t3": {
+        "status": "processed",
+        "processed_at": "2026-08-26T13:52:10.130121",
+        "alert_triggered": false
+    },
+    "senate_51455bcd-4966-4e77-b481-09897ada81ae_t9": {
+        "status": "processed",
+        "processed_at": "2026-08-26T13:52:10.427025",
+        "alert_triggered": true
     }
 }
