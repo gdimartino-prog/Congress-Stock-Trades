@@ -1,5 +1,23 @@
 [
     {
+        "id": "house_20035370_g0",
+        "ticker": "VSAT",
+        "filer_name": "Jonathan Jackson",
+        "party": "D",
+        "state": "IL",
+        "chamber": "house",
+        "transaction_type": "Sale (Partial)",
+        "transaction_date": "2026-08-28",
+        "amount_range_label": "$1,001 - $15,000",
+        "hist_price": 67.37000274658203,
+        "current_price": 75.31999969482422,
+        "diff_pct": 11.800499664734724,
+        "alert_type": "SELL_HIT",
+        "doc_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035370.pdf",
+        "timestamp": "2026-09-05T15:46:00.116010",
+        "email_sent": false
+    },
+    {
         "id": "house_20035326_g1",
         "ticker": "ALC",
         "filer_name": "Kevin Hern",
@@ -1779,24 +1797,6 @@
         "alert_type": "SELL_HIT",
         "doc_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035130.pdf",
         "timestamp": "2026-08-19T13:41:07.766842",
-        "email_sent": false
-    },
-    {
-        "id": "house_20035130_g2",
-        "ticker": "ELF",
-        "filer_name": "Michael Patrick Guest",
-        "party": "R",
-        "state": "MS",
-        "chamber": "house",
-        "transaction_type": "Sale (Full)",
-        "transaction_date": "2025-12-16",
-        "amount_range_label": "$1,001 - $15,000",
-        "hist_price": 78.7699966430664,
-        "current_price": 97.1500015258789,
-        "diff_pct": 23.333763699519427,
-        "alert_type": "SELL_HIT",
-        "doc_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035130.pdf",
-        "timestamp": "2026-08-19T13:41:07.362154",
         "email_sent": false
     }
 ]

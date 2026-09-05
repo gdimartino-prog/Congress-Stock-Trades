@@ -6178,5 +6178,10 @@
         "status": "processed",
         "processed_at": "2026-09-04T16:43:05.312817",
         "alert_triggered": true
+    },
+    "house_20035370_g0": {
+        "status": "processed",
+        "processed_at": "2026-09-05T15:46:00.116033",
+        "alert_triggered": true
     }
 }
