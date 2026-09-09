@@ -6308,5 +6308,25 @@
         "status": "processed",
         "processed_at": "2026-09-08T17:03:24.201601",
         "alert_triggered": true
+    },
+    "oge_Sean-McMaster-06_11_2026-278T_1__pdf_g3": {
+        "status": "failed",
+        "processed_at": "2026-09-09T17:01:08.016262",
+        "reason": "price_fetch_failed"
+    },
+    "oge_Sean-McMaster-06_11_2026-278T_1__pdf_g2": {
+        "status": "failed",
+        "processed_at": "2026-09-09T17:01:08.227033",
+        "reason": "price_fetch_failed"
+    },
+    "oge_Sean-McMaster-06_11_2026-278T_1__pdf_g1": {
+        "status": "failed",
+        "processed_at": "2026-09-09T17:01:08.228074",
+        "reason": "price_fetch_failed"
+    },
+    "oge_Sean-McMaster-06_11_2026-278T_1__pdf_g0": {
+        "status": "failed",
+        "processed_at": "2026-09-09T17:01:08.228925",
+        "reason": "price_fetch_failed"
     }
 }
