@@ -6328,5 +6328,225 @@
         "status": "failed",
         "processed_at": "2026-09-09T17:01:08.228925",
         "reason": "price_fetch_failed"
+    },
+    "oge_Eric-M-Ueland-08_06_2026-278T_pdf_g36": {
+        "status": "failed",
+        "processed_at": "2026-09-10T16:53:08.036048",
+        "reason": "price_fetch_failed"
+    },
+    "oge_Eric-M-Ueland-08_06_2026-278T_pdf_g35": {
+        "status": "failed",
+        "processed_at": "2026-09-10T16:53:08.218745",
+        "reason": "price_fetch_failed"
+    },
+    "oge_Eric-M-Ueland-08_06_2026-278T_pdf_g34": {
+        "status": "failed",
+        "processed_at": "2026-09-10T16:53:08.448954",
+        "reason": "price_fetch_failed"
+    },
+    "oge_Eric-M-Ueland-08_06_2026-278T_pdf_g33": {
+        "status": "processed",
+        "processed_at": "2026-09-10T16:53:08.684759",
+        "alert_triggered": true
+    },
+    "oge_Eric-M-Ueland-08_06_2026-278T_pdf_g32": {
+        "status": "processed",
+        "processed_at": "2026-09-10T16:53:08.954638",
+        "alert_triggered": false
+    },
+    "oge_Eric-M-Ueland-08_06_2026-278T_pdf_g31": {
+        "status": "processed",
+        "processed_at": "2026-09-10T16:53:09.183282",
+        "alert_triggered": false
+    },
+    "oge_Eric-M-Ueland-08_06_2026-278T_pdf_g30": {
+        "status": "processed",
+        "processed_at": "2026-09-10T16:53:09.360763",
+        "alert_triggered": false
+    },
+    "oge_Eric-M-Ueland-08_06_2026-278T_pdf_g29": {
+        "status": "processed",
+        "processed_at": "2026-09-10T16:53:09.567754",
+        "alert_triggered": true
+    },
+    "oge_Eric-M-Ueland-08_06_2026-278T_pdf_g28": {
+        "status": "failed",
+        "processed_at": "2026-09-10T16:53:09.583680",
+        "reason": "price_fetch_failed"
+    },
+    "oge_Eric-M-Ueland-08_06_2026-278T_pdf_g27": {
+        "status": "failed",
+        "processed_at": "2026-09-10T16:53:09.788564",
+        "reason": "price_fetch_failed"
+    },
+    "oge_Eric-M-Ueland-08_06_2026-278T_pdf_g26": {
+        "status": "failed",
+        "processed_at": "2026-09-10T16:53:09.805505",
+        "reason": "price_fetch_failed"
+    },
+    "oge_Eric-M-Ueland-08_06_2026-278T_pdf_g25": {
+        "status": "failed",
+        "processed_at": "2026-09-10T16:53:09.996675",
+        "reason": "price_fetch_failed"
+    },
+    "oge_Eric-M-Ueland-08_06_2026-278T_pdf_g24": {
+        "status": "failed",
+        "processed_at": "2026-09-10T16:53:10.013517",
+        "reason": "price_fetch_failed"
+    },
+    "oge_Eric-M-Ueland-08_06_2026-278T_pdf_g23": {
+        "status": "processed",
+        "processed_at": "2026-09-10T16:53:10.216583",
+        "alert_triggered": true
+    },
+    "oge_Eric-M-Ueland-08_06_2026-278T_pdf_g22": {
+        "status": "processed",
+        "processed_at": "2026-09-10T16:53:10.420733",
+        "alert_triggered": false
+    },
+    "oge_Eric-M-Ueland-08_06_2026-278T_pdf_g21": {
+        "status": "processed",
+        "processed_at": "2026-09-10T16:53:10.443914",
+        "alert_triggered": true
+    },
+    "oge_Eric-M-Ueland-08_06_2026-278T_pdf_g20": {
+        "status": "processed",
+        "processed_at": "2026-09-10T16:53:10.482940",
+        "alert_triggered": false
+    },
+    "oge_Eric-M-Ueland-08_06_2026-278T_pdf_g19": {
+        "status": "processed",
+        "processed_at": "2026-09-10T16:53:10.513688",
+        "alert_triggered": false
+    },
+    "oge_Eric-M-Ueland-08_06_2026-278T_pdf_g18": {
+        "status": "processed",
+        "processed_at": "2026-09-10T16:53:10.537984",
+        "alert_triggered": false
+    },
+    "oge_Eric-M-Ueland-08_06_2026-278T_pdf_g17": {
+        "status": "processed",
+        "processed_at": "2026-09-10T16:53:10.566984",
+        "alert_triggered": true
+    },
+    "oge_Eric-M-Ueland-08_06_2026-278T_pdf_g16": {
+        "status": "processed",
+        "processed_at": "2026-09-10T16:53:10.829117",
+        "alert_triggered": true
+    },
+    "oge_Eric-M-Ueland-08_06_2026-278T_pdf_g15": {
+        "status": "processed",
+        "processed_at": "2026-09-10T16:53:10.853403",
+        "alert_triggered": true
+    },
+    "oge_Eric-M-Ueland-08_06_2026-278T_pdf_g14": {
+        "status": "processed",
+        "processed_at": "2026-09-10T16:53:10.912672",
+        "alert_triggered": false
+    },
+    "oge_Eric-M-Ueland-08_06_2026-278T_pdf_g13": {
+        "status": "processed",
+        "processed_at": "2026-09-10T16:53:11.025216",
+        "alert_triggered": false
+    },
+    "oge_Eric-M-Ueland-08_06_2026-278T_pdf_g12": {
+        "status": "processed",
+        "processed_at": "2026-09-10T16:53:11.095806",
+        "alert_triggered": true
+    },
+    "oge_Eric-M-Ueland-08_06_2026-278T_pdf_g11": {
+        "status": "failed",
+        "processed_at": "2026-09-10T16:53:11.306995",
+        "reason": "price_fetch_failed"
+    },
+    "oge_Eric-M-Ueland-08_06_2026-278T_pdf_g10": {
+        "status": "failed",
+        "processed_at": "2026-09-10T16:53:11.478688",
+        "reason": "price_fetch_failed"
+    },
+    "oge_Eric-M-Ueland-08_06_2026-278T_pdf_g9": {
+        "status": "failed",
+        "processed_at": "2026-09-10T16:53:11.692244",
+        "reason": "price_fetch_failed"
+    },
+    "oge_Eric-M-Ueland-08_06_2026-278T_pdf_g8": {
+        "status": "processed",
+        "processed_at": "2026-09-10T16:53:13.106406",
+        "alert_triggered": true
+    },
+    "oge_Eric-M-Ueland-08_06_2026-278T_pdf_g7": {
+        "status": "processed",
+        "processed_at": "2026-09-10T16:53:13.294394",
+        "alert_triggered": true
+    },
+    "oge_Eric-M-Ueland-08_06_2026-278T_pdf_g6": {
+        "status": "processed",
+        "processed_at": "2026-09-10T16:53:13.508583",
+        "alert_triggered": true
+    },
+    "oge_Eric-M-Ueland-08_06_2026-278T_pdf_g5": {
+        "status": "failed",
+        "processed_at": "2026-09-10T16:53:13.728545",
+        "reason": "price_fetch_failed"
+    },
+    "oge_Eric-M-Ueland-08_06_2026-278T_pdf_g4": {
+        "status": "failed",
+        "processed_at": "2026-09-10T16:53:13.882880",
+        "reason": "price_fetch_failed"
+    },
+    "oge_Eric-M-Ueland-08_06_2026-278T_pdf_g3": {
+        "status": "processed",
+        "processed_at": "2026-09-10T16:53:14.119942",
+        "alert_triggered": true
+    },
+    "oge_Eric-M-Ueland-08_06_2026-278T_pdf_g2": {
+        "status": "processed",
+        "processed_at": "2026-09-10T16:53:14.319676",
+        "alert_triggered": false
+    },
+    "oge_Eric-M-Ueland-08_06_2026-278T_pdf_g1": {
+        "status": "processed",
+        "processed_at": "2026-09-10T16:53:14.565314",
+        "alert_triggered": false
+    },
+    "oge_Eric-M-Ueland-08_06_2026-278T_pdf_g0": {
+        "status": "processed",
+        "processed_at": "2026-09-10T16:53:14.816974",
+        "alert_triggered": true
+    },
+    "senate_e5144197-e49c-4f74-bec4-19f1f3124668_t6": {
+        "status": "processed",
+        "processed_at": "2026-09-10T16:53:14.964012",
+        "alert_triggered": false
+    },
+    "senate_e5144197-e49c-4f74-bec4-19f1f3124668_t5": {
+        "status": "processed",
+        "processed_at": "2026-09-10T16:53:15.132489",
+        "alert_triggered": true
+    },
+    "senate_e5144197-e49c-4f74-bec4-19f1f3124668_t4": {
+        "status": "processed",
+        "processed_at": "2026-09-10T16:53:15.277759",
+        "alert_triggered": false
+    },
+    "senate_e5144197-e49c-4f74-bec4-19f1f3124668_t3": {
+        "status": "processed",
+        "processed_at": "2026-09-10T16:53:15.564754",
+        "alert_triggered": false
+    },
+    "senate_e5144197-e49c-4f74-bec4-19f1f3124668_t2": {
+        "status": "processed",
+        "processed_at": "2026-09-10T16:53:15.721069",
+        "alert_triggered": true
+    },
+    "senate_e5144197-e49c-4f74-bec4-19f1f3124668_t1": {
+        "status": "processed",
+        "processed_at": "2026-09-10T16:53:15.920676",
+        "alert_triggered": true
+    },
+    "house_20035401_g0": {
+        "status": "processed",
+        "processed_at": "2026-09-10T16:53:16.207981",
+        "alert_triggered": true
     }
 }
