@@ -1,5 +1,23 @@
 [
     {
+        "id": "senate_b999bc0e-3eb0-4ca9-ab07-8e8f2e04b41f_t3",
+        "ticker": "WMB",
+        "filer_name": "Alan Armstrong",
+        "party": null,
+        "state": null,
+        "chamber": "senate",
+        "transaction_type": "Purchase",
+        "transaction_date": "2026-08-19",
+        "amount_range_label": "$1,001 - $15,000",
+        "hist_price": 72.71196746826172,
+        "current_price": 72.05000305175781,
+        "diff_pct": -0.9103926623809887,
+        "alert_type": "BUY_OPPORTUNITY",
+        "doc_url": "https://efdsearch.senate.gov/search/view/ptr/b999bc0e-3eb0-4ca9-ab07-8e8f2e04b41f/",
+        "timestamp": "2026-09-19T16:12:33.689164",
+        "email_sent": false
+    },
+    {
         "id": "house_20035420_g2",
         "ticker": "NFLX",
         "filer_name": "Byron Donalds",
@@ -1779,24 +1797,6 @@
         "alert_type": "SELL_HIT",
         "doc_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf",
         "timestamp": "2026-09-04T16:43:01.746668",
-        "email_sent": false
-    },
-    {
-        "id": "house_20035326_g17",
-        "ticker": "MDT",
-        "filer_name": "Kevin Hern",
-        "party": "R",
-        "state": "OK",
-        "chamber": "house",
-        "transaction_type": "Sale (Full)",
-        "transaction_date": "2026-08-24",
-        "amount_range_label": "$15,001 - $50,000",
-        "hist_price": 92.9000015258789,
-        "current_price": 94.09500122070312,
-        "diff_pct": 1.286329036809898,
-        "alert_type": "SELL_HIT",
-        "doc_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035326.pdf",
-        "timestamp": "2026-09-04T16:43:00.593916",
         "email_sent": false
     }
 ]

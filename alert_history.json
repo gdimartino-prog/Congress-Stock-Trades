@@ -7273,5 +7273,25 @@
         "status": "processed",
         "processed_at": "2026-09-18T16:55:26.245827",
         "alert_triggered": false
+    },
+    "senate_b999bc0e-3eb0-4ca9-ab07-8e8f2e04b41f_t0": {
+        "status": "processed",
+        "processed_at": "2026-09-19T16:12:33.564275",
+        "alert_triggered": false
+    },
+    "senate_b999bc0e-3eb0-4ca9-ab07-8e8f2e04b41f_t3": {
+        "status": "processed",
+        "processed_at": "2026-09-19T16:12:33.689188",
+        "alert_triggered": true
+    },
+    "senate_b999bc0e-3eb0-4ca9-ab07-8e8f2e04b41f_t2": {
+        "status": "failed",
+        "processed_at": "2026-09-19T16:12:34.050439",
+        "reason": "price_fetch_failed"
+    },
+    "senate_b999bc0e-3eb0-4ca9-ab07-8e8f2e04b41f_t1": {
+        "status": "failed",
+        "processed_at": "2026-09-19T16:12:34.182325",
+        "reason": "price_fetch_failed"
     }
 }
