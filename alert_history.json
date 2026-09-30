@@ -8163,5 +8163,15 @@
         "status": "processed",
         "processed_at": "2026-09-29T18:27:06.823900",
         "alert_triggered": false
+    },
+    "oge_Scott-A-Kupor-07_31_2026-278T_pdf_g1": {
+        "status": "processed",
+        "processed_at": "2026-09-30T18:15:45.440970",
+        "alert_triggered": true
+    },
+    "oge_Scott-A-Kupor-07_31_2026-278T_pdf_g0": {
+        "status": "processed",
+        "processed_at": "2026-09-30T18:15:45.765001",
+        "alert_triggered": false
     }
 }

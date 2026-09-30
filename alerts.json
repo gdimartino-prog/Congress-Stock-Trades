@@ -1,5 +1,23 @@
 [
     {
+        "id": "oge_Scott-A-Kupor-07_31_2026-278T_pdf_g1",
+        "ticker": "RVMD",
+        "filer_name": "Scott A Kupor",
+        "party": null,
+        "state": null,
+        "chamber": null,
+        "transaction_type": "Sale (Full)",
+        "transaction_date": "2026-07-30",
+        "amount_range_label": "$1,001 - $15,000",
+        "hist_price": 192.1699981689453,
+        "current_price": 207.10000610351562,
+        "diff_pct": 7.769166923467767,
+        "alert_type": "SELL_HIT",
+        "doc_url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/B157175D415FEC4685258E82002DBEBE/$FILE/Scott-A-Kupor-07.31.2026-278T.pdf",
+        "timestamp": "2026-09-30T18:15:45.440940",
+        "email_sent": false
+    },
+    {
         "id": "house_20035491_g15",
         "ticker": "CR",
         "filer_name": "Kevin Hern",
@@ -1779,24 +1797,6 @@
         "alert_type": "SELL_HIT",
         "doc_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf",
         "timestamp": "2026-09-12T15:58:49.287158",
-        "email_sent": false
-    },
-    {
-        "id": "house_20035390_g4",
-        "ticker": "APP",
-        "filer_name": "Gilbert Cisneros",
-        "party": "D",
-        "state": "CA",
-        "chamber": "house",
-        "transaction_type": "Sale (Partial)",
-        "transaction_date": "2026-08-18",
-        "amount_range_label": "$1,001 - $15,000",
-        "hist_price": 307.260009765625,
-        "current_price": 323.9599914550781,
-        "diff_pct": 5.435130234550116,
-        "alert_type": "SELL_HIT",
-        "doc_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf",
-        "timestamp": "2026-09-12T15:58:48.963119",
         "email_sent": false
     }
 ]
