@@ -1,5 +1,23 @@
 [
     {
+        "id": "senate_6bf3b6f7-9e1b-499a-bd5a-990292ce2e72_t1",
+        "ticker": "ADI",
+        "filer_name": "Sheldon Whitehouse",
+        "party": "D",
+        "state": "RI",
+        "chamber": "senate",
+        "transaction_type": "Sale (Partial)",
+        "transaction_date": "2026-09-04",
+        "amount_range_label": "$1,001 - $15,000",
+        "hist_price": 362.25,
+        "current_price": 415.69000244140625,
+        "diff_pct": 14.752243600112147,
+        "alert_type": "SELL_HIT",
+        "doc_url": "https://efdsearch.senate.gov/search/view/ptr/6bf3b6f7-9e1b-499a-bd5a-990292ce2e72/",
+        "timestamp": "2026-10-02T18:11:40.781405",
+        "email_sent": false
+    },
+    {
         "id": "oge_Scott-A-Kupor-07_31_2026-278T_pdf_g1",
         "ticker": "RVMD",
         "filer_name": "Scott A Kupor",
@@ -1779,24 +1797,6 @@
         "alert_type": "BUY_OPPORTUNITY",
         "doc_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf",
         "timestamp": "2026-09-12T15:58:49.607863",
-        "email_sent": false
-    },
-    {
-        "id": "house_20035390_g0",
-        "ticker": "AMD",
-        "filer_name": "Gilbert Cisneros",
-        "party": "D",
-        "state": "CA",
-        "chamber": "house",
-        "transaction_type": "Sale (Partial)",
-        "transaction_date": "2026-08-18",
-        "amount_range_label": "$1,001 - $15,000",
-        "hist_price": 484.3900146484375,
-        "current_price": 516.1300048828125,
-        "diff_pct": 6.552569060989288,
-        "alert_type": "SELL_HIT",
-        "doc_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035390.pdf",
-        "timestamp": "2026-09-12T15:58:49.287158",
         "email_sent": false
     }
 ]
