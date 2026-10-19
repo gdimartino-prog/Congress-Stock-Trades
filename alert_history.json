@@ -9378,5 +9378,10 @@
         "status": "processed",
         "processed_at": "2026-10-18T16:20:25.026915",
         "alert_triggered": true
+    },
+    "house_9116378_g36": {
+        "status": "processed",
+        "processed_at": "2026-10-19T18:58:56.748367",
+        "alert_triggered": true
     }
 }

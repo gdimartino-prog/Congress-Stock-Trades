@@ -1,5 +1,23 @@
 [
     {
+        "id": "house_9116378_g36",
+        "ticker": "TSM",
+        "filer_name": "Michael T. McCaul",
+        "party": "R",
+        "state": "TX",
+        "chamber": "house",
+        "transaction_type": "Sale (Full)",
+        "transaction_date": "2026-08-25",
+        "amount_range_label": "$1,001 - $15,000",
+        "hist_price": 416.293212890625,
+        "current_price": 421.7799987792969,
+        "diff_pct": 1.3180099311668212,
+        "alert_type": "SELL_HIT",
+        "doc_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116378.pdf",
+        "timestamp": "2026-10-19T18:58:56.748346",
+        "email_sent": false
+    },
+    {
         "id": "house_9116378_g28",
         "ticker": "EQT",
         "filer_name": "Michael T. McCaul",
@@ -1779,24 +1797,6 @@
         "alert_type": "SELL_HIT",
         "doc_url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/0BDCCCE7DE13AEFA85258E8A002DE2B5/$FILE/Donald-J-Trump.09.17.2026-278T.pdf",
         "timestamp": "2026-10-08T19:08:10.637645",
-        "email_sent": false
-    },
-    {
-        "id": "oge_Donald-J-Trump_09_17_2026-278T_pdf_g212",
-        "ticker": "ISRG",
-        "filer_name": "Donald J Trump",
-        "party": null,
-        "state": null,
-        "chamber": null,
-        "transaction_type": "Sale (Full)",
-        "transaction_date": "2026-08-28",
-        "amount_range_label": "$100,001 - $250,000",
-        "hist_price": 372.6000061035156,
-        "current_price": 415.2449951171875,
-        "diff_pct": 11.445246461382037,
-        "alert_type": "SELL_HIT",
-        "doc_url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/0BDCCCE7DE13AEFA85258E8A002DE2B5/$FILE/Donald-J-Trump.09.17.2026-278T.pdf",
-        "timestamp": "2026-10-08T19:08:10.078843",
         "email_sent": false
     }
 ]
