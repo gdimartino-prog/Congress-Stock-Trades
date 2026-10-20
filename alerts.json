@@ -1,5 +1,23 @@
 [
     {
+        "id": "house_20035490_g1",
+        "ticker": "NOKBF",
+        "filer_name": "Laurel Lee",
+        "party": "R",
+        "state": "FL",
+        "chamber": "house",
+        "transaction_type": "Purchase",
+        "transaction_date": "2026-09-18",
+        "amount_range_label": "$15,001 - $50,000",
+        "hist_price": 10.699999809265137,
+        "current_price": 9.149999618530273,
+        "diff_pct": -14.485983349202652,
+        "alert_type": "BUY_OPPORTUNITY",
+        "doc_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035490.pdf",
+        "timestamp": "2026-10-20T17:46:30.089838",
+        "email_sent": false
+    },
+    {
         "id": "house_9116378_g36",
         "ticker": "TSM",
         "filer_name": "Michael T. McCaul",
@@ -1779,24 +1797,6 @@
         "alert_type": "SELL_HIT",
         "doc_url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/0BDCCCE7DE13AEFA85258E8A002DE2B5/$FILE/Donald-J-Trump.09.17.2026-278T.pdf",
         "timestamp": "2026-10-08T19:08:10.925244",
-        "email_sent": false
-    },
-    {
-        "id": "oge_Donald-J-Trump_09_17_2026-278T_pdf_g207",
-        "ticker": "TSLA",
-        "filer_name": "Donald J Trump",
-        "party": null,
-        "state": null,
-        "chamber": null,
-        "transaction_type": "Sale (Full)",
-        "transaction_date": "2026-08-28",
-        "amount_range_label": "$50,001 - $100,000",
-        "hist_price": 348.75,
-        "current_price": 371.8299865722656,
-        "diff_pct": 6.617917296706989,
-        "alert_type": "SELL_HIT",
-        "doc_url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/0BDCCCE7DE13AEFA85258E8A002DE2B5/$FILE/Donald-J-Trump.09.17.2026-278T.pdf",
-        "timestamp": "2026-10-08T19:08:10.637645",
         "email_sent": false
     }
 ]
