@@ -9433,5 +9433,90 @@
         "status": "processed",
         "processed_at": "2026-10-21T17:53:21.576045",
         "alert_triggered": false
+    },
+    "senate_7dfdae57-9401-4bf1-9059-85d1e5ee4a84_t0": {
+        "status": "processed",
+        "processed_at": "2026-10-22T17:50:27.554968",
+        "alert_triggered": false
+    },
+    "senate_7dfdae57-9401-4bf1-9059-85d1e5ee4a84_t1": {
+        "status": "processed",
+        "processed_at": "2026-10-22T17:50:27.834181",
+        "alert_triggered": false
+    },
+    "senate_94c5f7b9-cdbc-40b4-aeba-de920da58588_t1": {
+        "status": "processed",
+        "processed_at": "2026-10-22T17:50:28.107015",
+        "alert_triggered": false
+    },
+    "senate_94c5f7b9-cdbc-40b4-aeba-de920da58588_t0": {
+        "status": "processed",
+        "processed_at": "2026-10-22T17:50:28.399308",
+        "alert_triggered": true
+    },
+    "senate_7dfdae57-9401-4bf1-9059-85d1e5ee4a84_t2": {
+        "status": "processed",
+        "processed_at": "2026-10-22T17:50:28.613633",
+        "alert_triggered": true
+    },
+    "senate_94c5f7b9-cdbc-40b4-aeba-de920da58588_t2": {
+        "status": "processed",
+        "processed_at": "2026-10-22T17:50:28.810895",
+        "alert_triggered": false
+    },
+    "senate_7dfdae57-9401-4bf1-9059-85d1e5ee4a84_t6": {
+        "status": "processed",
+        "processed_at": "2026-10-22T17:50:28.978072",
+        "alert_triggered": false
+    },
+    "senate_7dfdae57-9401-4bf1-9059-85d1e5ee4a84_t5": {
+        "status": "processed",
+        "processed_at": "2026-10-22T17:50:29.263960",
+        "alert_triggered": false
+    },
+    "senate_7dfdae57-9401-4bf1-9059-85d1e5ee4a84_t4": {
+        "status": "processed",
+        "processed_at": "2026-10-22T17:50:29.515236",
+        "alert_triggered": true
+    },
+    "senate_7dfdae57-9401-4bf1-9059-85d1e5ee4a84_t3": {
+        "status": "processed",
+        "processed_at": "2026-10-22T17:50:29.788789",
+        "alert_triggered": false
+    },
+    "senate_94c5f7b9-cdbc-40b4-aeba-de920da58588_t9": {
+        "status": "processed",
+        "processed_at": "2026-10-22T17:50:30.063485",
+        "alert_triggered": true
+    },
+    "senate_94c5f7b9-cdbc-40b4-aeba-de920da58588_t8": {
+        "status": "processed",
+        "processed_at": "2026-10-22T17:50:30.161335",
+        "alert_triggered": true
+    },
+    "senate_94c5f7b9-cdbc-40b4-aeba-de920da58588_t7": {
+        "status": "processed",
+        "processed_at": "2026-10-22T17:50:30.445798",
+        "alert_triggered": true
+    },
+    "senate_94c5f7b9-cdbc-40b4-aeba-de920da58588_t6": {
+        "status": "processed",
+        "processed_at": "2026-10-22T17:50:30.679978",
+        "alert_triggered": true
+    },
+    "senate_94c5f7b9-cdbc-40b4-aeba-de920da58588_t5": {
+        "status": "processed",
+        "processed_at": "2026-10-22T17:50:30.939042",
+        "alert_triggered": true
+    },
+    "senate_94c5f7b9-cdbc-40b4-aeba-de920da58588_t4": {
+        "status": "processed",
+        "processed_at": "2026-10-22T17:50:31.138165",
+        "alert_triggered": true
+    },
+    "senate_94c5f7b9-cdbc-40b4-aeba-de920da58588_t3": {
+        "status": "processed",
+        "processed_at": "2026-10-22T17:50:31.385322",
+        "alert_triggered": true
     }
 }
