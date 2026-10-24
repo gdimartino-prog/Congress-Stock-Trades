@@ -9518,5 +9518,20 @@
         "status": "processed",
         "processed_at": "2026-10-22T17:50:31.385322",
         "alert_triggered": true
+    },
+    "house_20035669_g1": {
+        "status": "processed",
+        "processed_at": "2026-10-24T16:25:37.257979",
+        "alert_triggered": true
+    },
+    "house_20035669_g0": {
+        "status": "processed",
+        "processed_at": "2026-10-24T16:25:37.494860",
+        "alert_triggered": true
+    },
+    "senate_6aa5ccb2-ff27-491a-9314-778b9ab37964_t0": {
+        "status": "processed",
+        "processed_at": "2026-10-24T16:25:37.751014",
+        "alert_triggered": false
     }
 }
