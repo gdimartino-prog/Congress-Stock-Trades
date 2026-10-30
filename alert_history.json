@@ -9753,5 +9753,25 @@
         "status": "processed",
         "processed_at": "2026-10-29T18:46:56.611580",
         "alert_triggered": true
+    },
+    "house_20035710_g1": {
+        "status": "processed",
+        "processed_at": "2026-10-30T18:24:30.613954",
+        "alert_triggered": true
+    },
+    "house_20035710_g0": {
+        "status": "processed",
+        "processed_at": "2026-10-30T18:24:30.885871",
+        "alert_triggered": false
+    },
+    "house_20035710_g2": {
+        "status": "processed",
+        "processed_at": "2026-10-30T18:24:31.205541",
+        "alert_triggered": true
+    },
+    "house_9116391_g10": {
+        "status": "processed",
+        "processed_at": "2026-10-30T18:24:31.417400",
+        "alert_triggered": true
     }
 }
