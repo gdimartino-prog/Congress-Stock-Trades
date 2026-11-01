@@ -9773,5 +9773,35 @@
         "status": "processed",
         "processed_at": "2026-10-30T18:24:31.417400",
         "alert_triggered": true
+    },
+    "house_20035727_g5": {
+        "status": "processed",
+        "processed_at": "2026-11-01T18:15:04.266853",
+        "alert_triggered": true
+    },
+    "house_20035727_g4": {
+        "status": "processed",
+        "processed_at": "2026-11-01T18:15:04.586069",
+        "alert_triggered": false
+    },
+    "house_20035727_g3": {
+        "status": "processed",
+        "processed_at": "2026-11-01T18:15:04.910512",
+        "alert_triggered": false
+    },
+    "house_20035727_g2": {
+        "status": "processed",
+        "processed_at": "2026-11-01T18:15:05.232720",
+        "alert_triggered": false
+    },
+    "house_20035727_g1": {
+        "status": "processed",
+        "processed_at": "2026-11-01T18:15:05.509983",
+        "alert_triggered": true
+    },
+    "house_20035727_g0": {
+        "status": "processed",
+        "processed_at": "2026-11-01T18:15:05.853394",
+        "alert_triggered": true
     }
 }
