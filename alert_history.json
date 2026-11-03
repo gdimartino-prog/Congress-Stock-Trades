@@ -9803,5 +9803,60 @@
         "status": "processed",
         "processed_at": "2026-11-01T18:15:05.853394",
         "alert_triggered": true
+    },
+    "house_20035484_g3": {
+        "status": "processed",
+        "processed_at": "2026-11-03T19:56:52.387733",
+        "alert_triggered": true
+    },
+    "house_20035484_g2": {
+        "status": "processed",
+        "processed_at": "2026-11-03T19:56:52.558776",
+        "alert_triggered": true
+    },
+    "house_20035484_g1": {
+        "status": "processed",
+        "processed_at": "2026-11-03T19:56:52.729997",
+        "alert_triggered": true
+    },
+    "house_20035484_g0": {
+        "status": "processed",
+        "processed_at": "2026-11-03T19:56:53.068570",
+        "alert_triggered": false
+    },
+    "house_20035591_g4": {
+        "status": "processed",
+        "processed_at": "2026-11-03T19:56:53.573109",
+        "alert_triggered": true
+    },
+    "house_20035591_g2": {
+        "status": "processed",
+        "processed_at": "2026-11-03T19:56:54.110581",
+        "alert_triggered": true
+    },
+    "house_20035591_g1": {
+        "status": "processed",
+        "processed_at": "2026-11-03T19:56:54.501234",
+        "alert_triggered": false
+    },
+    "house_20035734_g0": {
+        "status": "processed",
+        "processed_at": "2026-11-03T19:56:54.807540",
+        "alert_triggered": true
+    },
+    "house_20035591_g3": {
+        "status": "processed",
+        "processed_at": "2026-11-03T19:56:55.154124",
+        "alert_triggered": true
+    },
+    "house_20035591_g5": {
+        "status": "processed",
+        "processed_at": "2026-11-03T19:56:55.561448",
+        "alert_triggered": false
+    },
+    "house_20035591_g0": {
+        "status": "processed",
+        "processed_at": "2026-11-03T19:56:55.989130",
+        "alert_triggered": true
     }
 }
