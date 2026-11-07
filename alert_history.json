@@ -9863,5 +9863,70 @@
         "status": "processed",
         "processed_at": "2026-11-05T20:27:36.663529",
         "alert_triggered": false
+    },
+    "house_20035770_g0": {
+        "status": "processed",
+        "processed_at": "2026-11-07T17:56:09.699653",
+        "alert_triggered": true
+    },
+    "house_20035778_g2": {
+        "status": "processed",
+        "processed_at": "2026-11-07T17:56:10.051590",
+        "alert_triggered": false
+    },
+    "house_20035778_g1": {
+        "status": "processed",
+        "processed_at": "2026-11-07T17:56:10.307181",
+        "alert_triggered": true
+    },
+    "house_20035778_g0": {
+        "status": "processed",
+        "processed_at": "2026-11-07T17:56:10.517804",
+        "alert_triggered": false
+    },
+    "house_20035770_g2": {
+        "status": "processed",
+        "processed_at": "2026-11-07T17:56:10.767880",
+        "alert_triggered": false
+    },
+    "house_20035770_g1": {
+        "status": "processed",
+        "processed_at": "2026-11-07T17:56:11.014649",
+        "alert_triggered": true
+    },
+    "house_20035662_g0": {
+        "status": "processed",
+        "processed_at": "2026-11-07T17:56:11.103811",
+        "alert_triggered": false
+    },
+    "senate_a89c0c6b-4c12-4955-98f9-3a54ca52d8a3_t3": {
+        "status": "processed",
+        "processed_at": "2026-11-07T17:56:11.380673",
+        "alert_triggered": false
+    },
+    "senate_a89c0c6b-4c12-4955-98f9-3a54ca52d8a3_t2": {
+        "status": "processed",
+        "processed_at": "2026-11-07T17:56:11.610237",
+        "alert_triggered": false
+    },
+    "senate_a89c0c6b-4c12-4955-98f9-3a54ca52d8a3_t1": {
+        "status": "processed",
+        "processed_at": "2026-11-07T17:56:11.868838",
+        "alert_triggered": false
+    },
+    "senate_a89c0c6b-4c12-4955-98f9-3a54ca52d8a3_t0": {
+        "status": "processed",
+        "processed_at": "2026-11-07T17:56:12.126597",
+        "alert_triggered": true
+    },
+    "senate_02b5fe88-e8e1-4ef3-b6b5-6a46b420fb3c_t1": {
+        "status": "processed",
+        "processed_at": "2026-11-07T17:56:12.336924",
+        "alert_triggered": true
+    },
+    "senate_02b5fe88-e8e1-4ef3-b6b5-6a46b420fb3c_t0": {
+        "status": "processed",
+        "processed_at": "2026-11-07T17:56:12.428811",
+        "alert_triggered": false
     }
 }
