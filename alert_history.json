@@ -10013,5 +10013,20 @@
         "status": "processed",
         "processed_at": "2026-11-10T20:11:51.266652",
         "alert_triggered": false
+    },
+    "house_20035014_g1": {
+        "status": "failed",
+        "processed_at": "2026-11-11T19:59:23.747250",
+        "reason": "price_fetch_failed"
+    },
+    "house_20035014_g0": {
+        "status": "failed",
+        "processed_at": "2026-11-11T19:59:23.870193",
+        "reason": "price_fetch_failed"
+    },
+    "house_20024921_g0": {
+        "status": "failed",
+        "processed_at": "2026-11-11T19:59:23.963716",
+        "reason": "price_fetch_failed"
     }
 }
