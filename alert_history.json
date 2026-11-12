@@ -10028,5 +10028,420 @@
         "status": "failed",
         "processed_at": "2026-11-11T19:59:23.963716",
         "reason": "price_fetch_failed"
+    },
+    "oge_Arjun-Mody-09_16_2026-278T_pdf_g1": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:02.056592",
+        "alert_triggered": false
+    },
+    "oge_Arjun-Mody-09_16_2026-278T_pdf_g0": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:02.076700",
+        "alert_triggered": false
+    },
+    "oge_Arjun-Mody-09_16_2026-278T_pdf_g3": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:02.344063",
+        "alert_triggered": true
+    },
+    "oge_Arjun-Mody-09_16_2026-278T_pdf_g2": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:02.366742",
+        "alert_triggered": true
+    },
+    "oge_Arjun-Mody-09_16_2026-278T_pdf_g4": {
+        "status": "failed",
+        "processed_at": "2026-11-12T20:38:02.472055",
+        "reason": "price_fetch_failed"
+    },
+    "oge_Arjun-Mody-08_06_2026-278T_pdf_g3": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:02.691606",
+        "alert_triggered": false
+    },
+    "oge_Arjun-Mody-08_06_2026-278T_pdf_g2": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:02.790329",
+        "alert_triggered": false
+    },
+    "oge_Arjun-Mody-08_06_2026-278T_pdf_g1": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:02.812213",
+        "alert_triggered": false
+    },
+    "oge_Arjun-Mody-08_06_2026-278T_pdf_g0": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:02.833102",
+        "alert_triggered": false
+    },
+    "oge_Arjun-Mody-08_06_2026-278T_pdf_g9": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:02.953242",
+        "alert_triggered": false
+    },
+    "oge_Arjun-Mody-08_06_2026-278T_pdf_g8": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:03.152411",
+        "alert_triggered": true
+    },
+    "oge_Arjun-Mody-08_06_2026-278T_pdf_g7": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:03.246219",
+        "alert_triggered": true
+    },
+    "oge_Arjun-Mody-08_06_2026-278T_pdf_g6": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:03.267955",
+        "alert_triggered": true
+    },
+    "oge_Arjun-Mody-08_06_2026-278T_pdf_g5": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:03.293560",
+        "alert_triggered": true
+    },
+    "oge_Arjun-Mody-08_06_2026-278T_pdf_g4": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:03.314346",
+        "alert_triggered": false
+    },
+    "oge_Arjun-Mody-08_06_2026-278T_pdf_g49": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:03.503769",
+        "alert_triggered": true
+    },
+    "oge_Arjun-Mody-08_06_2026-278T_pdf_g48": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:03.707419",
+        "alert_triggered": false
+    },
+    "oge_Arjun-Mody-08_06_2026-278T_pdf_g27": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:03.811314",
+        "alert_triggered": false
+    },
+    "oge_Arjun-Mody-08_06_2026-278T_pdf_g26": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:04.143529",
+        "alert_triggered": true
+    },
+    "oge_Arjun-Mody-08_06_2026-278T_pdf_g25": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:04.476539",
+        "alert_triggered": true
+    },
+    "oge_Arjun-Mody-08_06_2026-278T_pdf_g24": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:04.671539",
+        "alert_triggered": false
+    },
+    "oge_Arjun-Mody-08_06_2026-278T_pdf_g23": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:04.873371",
+        "alert_triggered": true
+    },
+    "oge_Arjun-Mody-08_06_2026-278T_pdf_g22": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:05.067430",
+        "alert_triggered": false
+    },
+    "oge_Arjun-Mody-08_06_2026-278T_pdf_g21": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:05.298375",
+        "alert_triggered": false
+    },
+    "oge_Arjun-Mody-08_06_2026-278T_pdf_g20": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:05.556820",
+        "alert_triggered": true
+    },
+    "oge_Arjun-Mody-08_06_2026-278T_pdf_g19": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:05.835746",
+        "alert_triggered": false
+    },
+    "oge_Arjun-Mody-08_06_2026-278T_pdf_g18": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:06.042759",
+        "alert_triggered": true
+    },
+    "oge_Arjun-Mody-08_06_2026-278T_pdf_g17": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:06.285087",
+        "alert_triggered": true
+    },
+    "oge_Arjun-Mody-08_06_2026-278T_pdf_g16": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:06.527850",
+        "alert_triggered": true
+    },
+    "oge_Arjun-Mody-08_06_2026-278T_pdf_g15": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:06.829668",
+        "alert_triggered": true
+    },
+    "oge_Arjun-Mody-08_06_2026-278T_pdf_g14": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:07.103312",
+        "alert_triggered": true
+    },
+    "oge_Arjun-Mody-08_06_2026-278T_pdf_g13": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:07.352213",
+        "alert_triggered": true
+    },
+    "oge_Arjun-Mody-08_06_2026-278T_pdf_g12": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:07.372721",
+        "alert_triggered": false
+    },
+    "oge_Arjun-Mody-08_06_2026-278T_pdf_g11": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:07.597248",
+        "alert_triggered": false
+    },
+    "oge_Arjun-Mody-08_06_2026-278T_pdf_g10": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:07.681104",
+        "alert_triggered": true
+    },
+    "oge_Arjun-Mody-08_06_2026-278T_pdf_g31": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:07.768150",
+        "alert_triggered": false
+    },
+    "oge_Arjun-Mody-08_06_2026-278T_pdf_g30": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:07.866712",
+        "alert_triggered": false
+    },
+    "oge_Arjun-Mody-08_06_2026-278T_pdf_g29": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:07.888344",
+        "alert_triggered": false
+    },
+    "oge_Arjun-Mody-08_06_2026-278T_pdf_g28": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:07.909557",
+        "alert_triggered": false
+    },
+    "oge_Arjun-Mody-08_06_2026-278T_pdf_g38": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:08.007278",
+        "alert_triggered": false
+    },
+    "oge_Arjun-Mody-08_06_2026-278T_pdf_g37": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:08.027852",
+        "alert_triggered": false
+    },
+    "oge_Arjun-Mody-08_06_2026-278T_pdf_g36": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:08.237219",
+        "alert_triggered": false
+    },
+    "oge_Arjun-Mody-08_06_2026-278T_pdf_g35": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:08.358897",
+        "alert_triggered": false
+    },
+    "oge_Arjun-Mody-08_06_2026-278T_pdf_g34": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:08.436802",
+        "alert_triggered": false
+    },
+    "oge_Arjun-Mody-08_06_2026-278T_pdf_g33": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:08.525867",
+        "alert_triggered": false
+    },
+    "oge_Arjun-Mody-08_06_2026-278T_pdf_g32": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:08.545762",
+        "alert_triggered": false
+    },
+    "oge_Arjun-Mody-08_06_2026-278T_pdf_g47": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:08.771729",
+        "alert_triggered": true
+    },
+    "oge_Arjun-Mody-08_06_2026-278T_pdf_g46": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:08.871203",
+        "alert_triggered": false
+    },
+    "oge_Arjun-Mody-08_06_2026-278T_pdf_g45": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:08.967184",
+        "alert_triggered": false
+    },
+    "oge_Arjun-Mody-08_06_2026-278T_pdf_g44": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:09.182471",
+        "alert_triggered": true
+    },
+    "oge_Arjun-Mody-08_06_2026-278T_pdf_g43": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:09.387852",
+        "alert_triggered": true
+    },
+    "oge_Arjun-Mody-08_06_2026-278T_pdf_g42": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:09.408272",
+        "alert_triggered": true
+    },
+    "oge_Arjun-Mody-08_06_2026-278T_pdf_g41": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:09.435714",
+        "alert_triggered": true
+    },
+    "oge_Arjun-Mody-08_06_2026-278T_pdf_g40": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:09.458161",
+        "alert_triggered": false
+    },
+    "oge_Arjun-Mody-08_06_2026-278T_pdf_g39": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:09.478658",
+        "alert_triggered": true
+    },
+    "house_20035788_g10": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:09.664304",
+        "alert_triggered": false
+    },
+    "house_20035788_g60": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:09.864168",
+        "alert_triggered": false
+    },
+    "house_20035788_g46": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:10.131741",
+        "alert_triggered": false
+    },
+    "house_20035788_g44": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:10.301755",
+        "alert_triggered": true
+    },
+    "house_20035788_g33": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:10.526487",
+        "alert_triggered": true
+    },
+    "house_20035788_g28": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:10.727435",
+        "alert_triggered": false
+    },
+    "house_20035788_g9": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:10.811171",
+        "alert_triggered": false
+    },
+    "house_20035788_g6": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:11.020294",
+        "alert_triggered": false
+    },
+    "house_20035788_g59": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:11.141374",
+        "alert_triggered": false
+    },
+    "house_20035788_g49": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:11.210810",
+        "alert_triggered": true
+    },
+    "house_20035788_g35": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:11.405655",
+        "alert_triggered": false
+    },
+    "house_20035788_g15": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:11.590766",
+        "alert_triggered": false
+    },
+    "house_20035788_g63": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:11.877454",
+        "alert_triggered": false
+    },
+    "house_20035788_g61": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:11.983248",
+        "alert_triggered": true
+    },
+    "house_20035788_g57": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:12.177246",
+        "alert_triggered": true
+    },
+    "house_20035788_g55": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:12.462701",
+        "alert_triggered": true
+    },
+    "house_20035788_g45": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:12.690949",
+        "alert_triggered": true
+    },
+    "house_20035788_g42": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:12.871742",
+        "alert_triggered": false
+    },
+    "house_20035788_g41": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:13.081636",
+        "alert_triggered": false
+    },
+    "house_20035788_g38": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:13.247091",
+        "alert_triggered": true
+    },
+    "house_20035788_g32": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:13.422354",
+        "alert_triggered": true
+    },
+    "house_20035788_g29": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:13.589501",
+        "alert_triggered": false
+    },
+    "house_20035788_g26": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:13.846819",
+        "alert_triggered": true
+    },
+    "house_20035788_g25": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:14.052745",
+        "alert_triggered": true
+    },
+    "house_20035788_g24": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:14.275052",
+        "alert_triggered": true
+    },
+    "house_20035788_g22": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:14.595585",
+        "alert_triggered": false
+    },
+    "house_20035788_g21": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:14.877809",
+        "alert_triggered": false
+    },
+    "house_20035788_g19": {
+        "status": "processed",
+        "processed_at": "2026-11-12T20:38:15.166615",
+        "alert_triggered": false
     }
 }
