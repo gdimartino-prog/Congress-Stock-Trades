@@ -10443,5 +10443,75 @@
         "status": "processed",
         "processed_at": "2026-11-12T20:38:15.166615",
         "alert_triggered": false
+    },
+    "house_20035831_g10": {
+        "status": "processed",
+        "processed_at": "2026-11-15T19:13:57.044958",
+        "alert_triggered": true
+    },
+    "house_20035831_g9": {
+        "status": "processed",
+        "processed_at": "2026-11-15T19:13:57.296912",
+        "alert_triggered": false
+    },
+    "house_20035831_g6": {
+        "status": "processed",
+        "processed_at": "2026-11-15T19:13:57.570124",
+        "alert_triggered": false
+    },
+    "house_20035831_g3": {
+        "status": "processed",
+        "processed_at": "2026-11-15T19:13:57.821387",
+        "alert_triggered": false
+    },
+    "house_20035831_g11": {
+        "status": "processed",
+        "processed_at": "2026-11-15T19:13:58.055390",
+        "alert_triggered": true
+    },
+    "house_20035831_g8": {
+        "status": "processed",
+        "processed_at": "2026-11-15T19:13:58.363596",
+        "alert_triggered": true
+    },
+    "house_20035831_g7": {
+        "status": "processed",
+        "processed_at": "2026-11-15T19:13:58.561808",
+        "alert_triggered": false
+    },
+    "house_20035831_g5": {
+        "status": "processed",
+        "processed_at": "2026-11-15T19:13:58.876213",
+        "alert_triggered": true
+    },
+    "house_20035831_g4": {
+        "status": "processed",
+        "processed_at": "2026-11-15T19:13:59.215561",
+        "alert_triggered": true
+    },
+    "house_20035831_g2": {
+        "status": "processed",
+        "processed_at": "2026-11-15T19:13:59.492280",
+        "alert_triggered": false
+    },
+    "house_20035831_g1": {
+        "status": "processed",
+        "processed_at": "2026-11-15T19:13:59.691045",
+        "alert_triggered": true
+    },
+    "house_20035831_g0": {
+        "status": "processed",
+        "processed_at": "2026-11-15T19:13:59.871496",
+        "alert_triggered": false
+    },
+    "house_20035821_g0": {
+        "status": "processed",
+        "processed_at": "2026-11-15T19:14:00.126125",
+        "alert_triggered": true
+    },
+    "house_20035826_g0": {
+        "status": "processed",
+        "processed_at": "2026-11-15T19:14:00.408015",
+        "alert_triggered": false
     }
 }
