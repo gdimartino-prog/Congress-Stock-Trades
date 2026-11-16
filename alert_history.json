@@ -10513,5 +10513,35 @@
         "status": "processed",
         "processed_at": "2026-11-15T19:14:00.408015",
         "alert_triggered": false
+    },
+    "house_20035807_g0": {
+        "status": "processed",
+        "processed_at": "2026-11-16T22:43:23.348707",
+        "alert_triggered": true
+    },
+    "house_20035757_g1": {
+        "status": "processed",
+        "processed_at": "2026-11-16T22:43:23.592854",
+        "alert_triggered": true
+    },
+    "house_20035786_g7": {
+        "status": "failed",
+        "processed_at": "2026-11-16T22:43:24.200166",
+        "reason": "price_fetch_failed"
+    },
+    "house_20035757_g3": {
+        "status": "processed",
+        "processed_at": "2026-11-16T22:43:24.504599",
+        "alert_triggered": true
+    },
+    "house_20035757_g2": {
+        "status": "processed",
+        "processed_at": "2026-11-16T22:43:24.814691",
+        "alert_triggered": false
+    },
+    "house_20035757_g0": {
+        "status": "processed",
+        "processed_at": "2026-11-16T22:43:25.178271",
+        "alert_triggered": true
     }
 }
