@@ -10543,5 +10543,65 @@
         "status": "processed",
         "processed_at": "2026-11-16T22:43:25.178271",
         "alert_triggered": true
+    },
+    "senate_21941188-c04d-4713-8e6f-d954918e93fd_t1": {
+        "status": "processed",
+        "processed_at": "2026-11-18T21:04:44.274025",
+        "alert_triggered": true
+    },
+    "senate_21941188-c04d-4713-8e6f-d954918e93fd_t0": {
+        "status": "processed",
+        "processed_at": "2026-11-18T21:04:44.650178",
+        "alert_triggered": true
+    },
+    "senate_06b7b716-bdc0-4c47-a4aa-96624e1e702c_t1": {
+        "status": "processed",
+        "processed_at": "2026-11-18T21:04:44.894757",
+        "alert_triggered": false
+    },
+    "senate_06b7b716-bdc0-4c47-a4aa-96624e1e702c_t0": {
+        "status": "processed",
+        "processed_at": "2026-11-18T21:04:45.146471",
+        "alert_triggered": false
+    },
+    "house_20035811_g7": {
+        "status": "processed",
+        "processed_at": "2026-11-18T21:04:45.387964",
+        "alert_triggered": true
+    },
+    "house_20035811_g6": {
+        "status": "processed",
+        "processed_at": "2026-11-18T21:04:45.418566",
+        "alert_triggered": true
+    },
+    "house_20035811_g5": {
+        "status": "processed",
+        "processed_at": "2026-11-18T21:04:45.659984",
+        "alert_triggered": false
+    },
+    "house_20035811_g4": {
+        "status": "processed",
+        "processed_at": "2026-11-18T21:04:45.691096",
+        "alert_triggered": false
+    },
+    "house_20035811_g3": {
+        "status": "processed",
+        "processed_at": "2026-11-18T21:04:45.993266",
+        "alert_triggered": true
+    },
+    "house_20035811_g2": {
+        "status": "processed",
+        "processed_at": "2026-11-18T21:04:46.028624",
+        "alert_triggered": true
+    },
+    "house_20035811_g1": {
+        "status": "processed",
+        "processed_at": "2026-11-18T21:04:46.307734",
+        "alert_triggered": true
+    },
+    "house_20035811_g0": {
+        "status": "processed",
+        "processed_at": "2026-11-18T21:04:46.344757",
+        "alert_triggered": true
     }
 }
