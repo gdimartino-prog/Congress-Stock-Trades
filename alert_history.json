@@ -10998,5 +10998,15 @@
         "status": "processed",
         "processed_at": "2026-11-24T00:33:51.978009",
         "alert_triggered": false
+    },
+    "house_20036891_g0": {
+        "status": "processed",
+        "processed_at": "2026-11-24T22:53:54.742733",
+        "alert_triggered": false
+    },
+    "house_20036883_g0": {
+        "status": "processed",
+        "processed_at": "2026-11-24T22:53:55.082463",
+        "alert_triggered": true
     }
 }

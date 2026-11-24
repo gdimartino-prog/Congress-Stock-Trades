@@ -1,5 +1,23 @@
 [
     {
+        "id": "house_20036883_g0",
+        "ticker": "VZ",
+        "filer_name": "Jennifer McClellan",
+        "party": "D",
+        "state": "VA",
+        "chamber": "house",
+        "transaction_type": "Sale (Partial)",
+        "transaction_date": "2026-11-19",
+        "amount_range_label": "$50,001 - $100,000",
+        "hist_price": 45.7400016784668,
+        "current_price": 47.15999984741211,
+        "diff_pct": 3.104499599556881,
+        "alert_type": "SELL_HIT",
+        "doc_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036883.pdf",
+        "timestamp": "2026-11-24T22:53:55.082440",
+        "email_sent": false
+    },
+    {
         "id": "house_20036844_g0",
         "ticker": "JNJ",
         "filer_name": "Thomas H. Kean Jr",
@@ -1779,24 +1797,6 @@
         "alert_type": "SELL_HIT",
         "doc_url": "https://efdsearch.senate.gov/search/view/ptr/02b5fe88-e8e1-4ef3-b6b5-6a46b420fb3c/",
         "timestamp": "2026-11-07T17:56:12.336899",
-        "email_sent": false
-    },
-    {
-        "id": "senate_a89c0c6b-4c12-4955-98f9-3a54ca52d8a3_t0",
-        "ticker": "ZTS",
-        "filer_name": "Shelley M Capito",
-        "party": "R",
-        "state": "WV",
-        "chamber": "senate",
-        "transaction_type": "Sale (Full)",
-        "transaction_date": "2026-10-21",
-        "amount_range_label": "$1,001 - $15,000",
-        "hist_price": 79.08448791503906,
-        "current_price": 79.4000015258789,
-        "diff_pct": 0.39895764537136774,
-        "alert_type": "SELL_HIT",
-        "doc_url": "https://efdsearch.senate.gov/search/view/ptr/a89c0c6b-4c12-4955-98f9-3a54ca52d8a3/",
-        "timestamp": "2026-11-07T17:56:12.126573",
         "email_sent": false
     }
 ]
