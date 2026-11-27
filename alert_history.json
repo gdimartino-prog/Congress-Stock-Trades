@@ -11428,5 +11428,20 @@
         "status": "processed",
         "processed_at": "2026-11-25T22:07:39.075475",
         "alert_triggered": true
+    },
+    "senate_99dc7269-2f99-4c8b-8d0c-a3a91328af84_t2": {
+        "status": "processed",
+        "processed_at": "2026-11-27T21:47:33.686905",
+        "alert_triggered": true
+    },
+    "senate_99dc7269-2f99-4c8b-8d0c-a3a91328af84_t1": {
+        "status": "processed",
+        "processed_at": "2026-11-27T21:47:33.787520",
+        "alert_triggered": true
+    },
+    "senate_99dc7269-2f99-4c8b-8d0c-a3a91328af84_t0": {
+        "status": "processed",
+        "processed_at": "2026-11-27T21:47:33.871191",
+        "alert_triggered": true
     }
 }
